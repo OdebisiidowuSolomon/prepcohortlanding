@@ -1,0 +1,160 @@
+.ua-alice-carousel .ua-item {
+  display: flex; }
+
+.ua-alice-carousel .ua-item-box {
+  position: relative;
+  display: flex;
+  width: 100%; }
+  .ua-alice-carousel .ua-item-box::before {
+    content: '';
+    display: block;
+    position: absolute;
+    width: 100%;
+    top: 0;
+    bottom: 0;
+    z-index: 2;
+    background: #1b19198c;
+    transition: all .3s ease; }
+  .ua-alice-carousel .ua-item-box:hover .ua-img-wrap .ua-img {
+    transform: scale(1.1); }
+  .ua-alice-carousel .ua-item-box:hover .ua-category {
+    opacity: 1; }
+
+.ua-alice-carousel .ua-img-wrap {
+  overflow: hidden;
+  display: flex;
+  width: 100%; }
+  .ua-alice-carousel .ua-img-wrap .ua-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: all 1s ease; }
+
+.ua-alice-carousel .ua-category {
+  position: absolute;
+  right: 0;
+  top: 0;
+  opacity: 0;
+  transition: opacity .5s ease;
+  z-index: 11; }
+  .ua-alice-carousel .ua-category a {
+    color: #e8e4e4;
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 500;
+    text-transform: uppercase;
+    background: #EF233C;
+    padding: 5px 14px;
+    transition: all .3s ease; }
+    .ua-alice-carousel .ua-category a:hover {
+      background: #D90429; }
+  .ua-alice-carousel .ua-category a + a {
+    margin-left: 5px; }
+
+.ua-alice-carousel .ua-content {
+  position: absolute;
+  padding: 30px;
+  width: 100%;
+  bottom: 0;
+  z-index: 10; }
+
+.ua-alice-carousel .ua-title {
+  display: block;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 1.4;
+  margin: 0;
+  padding-bottom: 10px;
+  text-transform: capitalize; }
+  .ua-alice-carousel .ua-title a {
+    color: #fff;
+    transition: all .3s ease; }
+
+.ua-alice-carousel .ua-meta {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  color: #EDF2F4;
+  text-transform: capitalize; }
+  .ua-alice-carousel .ua-meta .ua-author {
+    position: relative; }
+    .ua-alice-carousel .ua-meta .ua-author a {
+      color: #EDF2F4; }
+    .ua-alice-carousel .ua-meta .ua-author span {
+      padding-right: 6px; }
+  .ua-alice-carousel .ua-meta .ua-date {
+    position: relative;
+    margin-left: 10px;
+    padding-left: 10px;
+    font-weight: 400; }
+    .ua-alice-carousel .ua-meta .ua-date:before {
+      content: '';
+      position: absolute;
+      height: 4px;
+      width: 4px;
+      left: -2px;
+      top: 50%;
+      border-radius: 10px;
+      background: #EDF2F4; }
+  .ua-alice-carousel .ua-meta .ua-post-time {
+    margin-left: 5px; }
+    .ua-alice-carousel .ua-meta .ua-post-time i {
+      margin-right: 2px; }
+
+.ua-alice-carousel .ua-content-bottom-center .ua-content {
+  left: 50%;
+  text-align: center;
+  transform: translate(-50%, 0); }
+  .ua-alice-carousel .ua-content-bottom-center .ua-content .ua-meta {
+    justify-content: center; }
+
+.ua-alice-carousel .ua-content-bottom-left .ua-content {
+  text-align: left;
+  left: 0; }
+  .ua-alice-carousel .ua-content-bottom-left .ua-content .ua-meta {
+    justify-content: left; }
+
+.ua-alice-carousel .ua-content-bottom-right .ua-content {
+  text-align: right;
+  right: 0; }
+  .ua-alice-carousel .ua-content-bottom-right .ua-content .ua-meta {
+    justify-content: flex-end; }
+
+.ua-global-link-yes .ua-alice-carousel .ua-item:hover {
+  cursor: pointer; }
+
+.elementor-widget-ua-alice-carousel .ua-arrows-container {
+  -webkit-transform: translate(var(--ua-alice-carousel-arrows-ncx, 0), var(--ua-alice-carousel-arrows-ncy, 40));
+  transform: translate(var(--ua-alice-carousel-arrows-ncx, 0), var(--ua-alice-carousel-arrows-ncy, 40)); }
+
+.elementor-widget-ua-alice-carousel .ua-dots-container {
+  -webkit-transform: translate(var(--ua-alice-carousel-dots-nnx, 0), var(--ua-alice-carousel-dots-nny, 30));
+  transform: translate(var(--ua-alice-carousel-dots-nnx, 0), var(--ua-alice-carousel-dots-nny, 30)); }
+
+.elementor-widget-ua-alice-carousel .ua-arrows-dots-container {
+  -webkit-transform: translate(var(--ua-alice-carousel-both-ncx, 0), var(--ua-alice-carousel-both-ncy, 40));
+  transform: translate(var(--ua-alice-carousel-both-ncx, 0), var(--ua-alice-carousel-both-ncy, 40)); }
+
+.elementor-widget-ua-alice-carousel .ua-arrows-fraction-container {
+  -webkit-transform: translate(var(--ua-alice-carousel-arrows-fraction-ncx, 0), var(--ua-alice-carousel-arrows-fraction-ncy, 40));
+  transform: translate(var(--ua-alice-carousel-arrows-fraction-ncx, 0), var(--ua-alice-carousel-arrows-fraction-ncy, 40)); }
+
+.elementor-widget-ua-alice-carousel .ua-position-center-left .ua-arrows-container,
+.elementor-widget-ua-alice-carousel .ua-position-center-right .ua-arrows-container {
+  -webkit-transform: translate(var(--ua-alice-carousel-arrows-ncx, 0), var(--ua-alice-carousel-arrows-ncy, 0)) rotate(90deg);
+  transform: translate(var(--ua-alice-carousel-arrows-ncx, 0), var(--ua-alice-carousel-arrows-ncy, 0)) rotate(90deg); }
+
+.elementor-widget-ua-alice-carousel .ua-position-center-left .ua-dots-container,
+.elementor-widget-ua-alice-carousel .ua-position-center-right .ua-dots-container {
+  -webkit-transform: translate(var(--ua-alice-carousel-dots-nnx, 0), var(--ua-alice-carousel-dots-nny, 0)) rotate(90deg);
+  transform: translate(var(--ua-alice-carousel-dots-nnx, 0), var(--ua-alice-carousel-dots-nny, 0)) rotate(90deg); }
+
+.elementor-widget-ua-alice-carousel .ua-position-center-left .ua-arrows-dots-container,
+.elementor-widget-ua-alice-carousel .ua-position-center-right .ua-arrows-dots-container {
+  -webkit-transform: translate(var(--ua-alice-carousel-both-ncx, 0), var(--ua-alice-carousel-both-ncy, 0)) rotate(90deg);
+  transform: translate(var(--ua-alice-carousel-both-ncx, 0), var(--ua-alice-carousel-both-ncy, 0)) rotate(90deg); }
+
+.elementor-widget-ua-alice-carousel .ua-position-center-left .ua-arrows-fraction-container,
+.elementor-widget-ua-alice-carousel .ua-position-center-right .ua-arrows-fraction-container {
+  -webkit-transform: translate(var(--ua-alice-carousel-arrows-fraction-ncx, 0), var(--ua-alice-carousel-arrows-fraction-ncy, 0)) rotate(90deg);
+  transform: translate(var(--ua-alice-carousel-arrows-fraction-ncx, 0), var(--ua-alice-carousel-arrows-fraction-ncy, 0)) rotate(90deg); }

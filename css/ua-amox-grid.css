@@ -1,0 +1,88 @@
+.ua-amox-grid {
+  display: grid;
+  grid-gap: 30px; }
+  .ua-amox-grid .ua-item {
+    overflow: hidden; }
+    .ua-amox-grid .ua-item:hover .ua-img-wrap .ua-img {
+      transform: scale(1.2); }
+    .ua-amox-grid .ua-item.active {
+      position: relative; }
+      .ua-amox-grid .ua-item.active .ua-img-wrap {
+        height: 100%;
+        position: relative; }
+        .ua-amox-grid .ua-item.active .ua-img-wrap::before {
+          position: absolute;
+          content: '';
+          top: 0;
+          width: 100%;
+          height: 100%;
+          background: #2b2d4259;
+          z-index: 1;
+          transition: background .3s ease; }
+      .ua-amox-grid .ua-item.active .ua-content {
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        padding: 20px;
+        text-align: center;
+        z-index: 1; }
+      .ua-amox-grid .ua-item.active .ua-title a {
+        color: #EDF2F4; }
+        .ua-amox-grid .ua-item.active .ua-title a:hover {
+          color: #D90429; }
+      .ua-amox-grid .ua-item.active .ua-category a {
+        color: #fff;
+        background: #161a2b;
+        padding: 4px 8px;
+        transition: all .3s ease-in-out; }
+        .ua-amox-grid .ua-item.active .ua-category a:hover {
+          background: #D90429; }
+      .ua-amox-grid .ua-item.active .ua-meta {
+        color: #EDF2F4; }
+  .ua-amox-grid .ua-img-wrap {
+    overflow: hidden;
+    cursor: pointer; }
+    .ua-amox-grid .ua-img-wrap .ua-img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transform: scale(1);
+      transition: transform 1s cubic-bezier(0.645, 0.045, 0.355, 1); }
+  .ua-amox-grid .ua-content {
+    padding: 20px 0; }
+  .ua-amox-grid .ua-category {
+    display: inline-flex;
+    margin-bottom: 8px; }
+    .ua-amox-grid .ua-category a {
+      font-size: 11px;
+      color: #8D99AE;
+      text-transform: uppercase;
+      transition: all .3s ease-in-out; }
+      .ua-amox-grid .ua-category a:hover {
+        color: #D90429; }
+    .ua-amox-grid .ua-category a + a {
+      margin-left: 5px; }
+  .ua-amox-grid .ua-title {
+    margin: 0;
+    padding-bottom: 8px;
+    font-size: 20px;
+    font-weight: 700; }
+    .ua-amox-grid .ua-title a {
+      color: #2B2D42;
+      transition: all .3s ease-in-out; }
+      .ua-amox-grid .ua-title a:hover {
+        color: #D90429; }
+  .ua-amox-grid .ua-meta {
+    font-size: 12px;
+    color: #8D99AE; }
+    .ua-amox-grid .ua-meta .ua-post-time {
+      margin-left: 5px; }
+      .ua-amox-grid .ua-meta .ua-post-time i {
+        margin-right: 2px; }
+  .ua-amox-grid .ua-comments {
+    margin-left: 10px; }
+    .ua-amox-grid .ua-comments span {
+      margin-left: 4px; }
+
+.ua-global-link-yes .ua-amox-grid .ua-item:hover {
+  cursor: pointer; }

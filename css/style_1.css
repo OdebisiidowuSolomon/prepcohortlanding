@@ -1,0 +1,2064 @@
+
+/*
+Theme Name: Yoga Kriya Pro
+Description: Yoga Kriya Pro WordPress Theme comes with an array of incredible features such as Contact forms as well as a Newsletter that can generate immense leads for your business. Besides the basic elements, you will also have the plugin compatibility features letting you add the desired functionality to your existing website. You will also have variations of the homepage layout with various sidebar arrangements. You can use the sidebar effectively for presenting promotional content. The theme gives you RTL and WPML compatibility as .pot files are included in it so that your website
+becomes ready for an international audience. Woocommerce compliance will play a key role when it comes to pushing your services online to let people avail themselves through your website. They can also make payments for your IT services through various online payment methods. This WP Yoga Kriya Pro WordPress Theme gives all the goodies that will result in a great IT business website.
+Author:unique
+Theme URI:
+Author URI: https://www.mizanthemes.com
+Version: 0.0.1
+Requires PHP: 7.2
+Tested up to: 6.2.2
+Text Domain: yoga-kriya-pro
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Tags: education, portfolio, blog, wide-blocks, one-column, two-columns, right-sidebar, left-sidebar, grid-layout, custom-background, custom-colors, custom-header, custom-logo, custom-menu, featured-images, footer-widgets, full-width-template, editor-style, theme-options, threaded-comments
+Yoga Kriya Pro WordPress Theme has been created by unique(unique.com), 2022.
+Yoga Kriya Pro WordPress Theme is released under the terms of GNU GPL
+*/
+
+@import url('css2.css');
+*{
+margin:0;
+padding:0;
+}
+body{
+overflow-x: hidden;
+}
+
+
+
+
+
+
+.demo{
+	z-index:9999!important;
+}
+.yoga-header-section{
+	z-index:9!important;
+}
+.yoga-classes-section .ua-item{
+	padding-bottom: 0px!important;
+}
+ .yoga-slider-mail-col .elementor-widget-wrap{
+   padding: 5px 30px 5px 5px!important;
+ }
+
+
+
+
+/*---------------------3 Steps Reservation Section Css Starts Here--------------------------*/
+
+.yoga-3-steps-reservation .elementor-widget-wrap{
+   width: 80%;
+    margin: 0 auto;
+}
+
+
+
+/*---------------------3 Steps Reservation Section Css Starts Here--------------------------*/
+
+/*---------------------Single Class Page Css Starts Here--------------------------*/
+.single-product-banner-left h1{
+border-style: solid;
+border-width: 0px 0px 4px 0px;
+border-color: #FFFFFF;
+width: max-content;
+}
+.single-class-days{
+box-shadow: 0 2px 7px #00000029;
+border-radius: 10px;
+}
+.single-product-banner-left h1{
+color: #fff;
+font-family: "Urbanist", Sans-serif;
+font-weight: 800;
+}
+.single-classes .bradcrumbs{
+color:#fff;
+font-family: "Urbanist", Sans-serif;
+font-weight: 800;
+}
+.single-classes .bradcrumbs a{
+color:#fff;
+font-family: "Urbanist", Sans-serif;
+font-weight: 800;
+}
+.single-classes {
+font-family: "Urbanist", Sans-serif;
+}
+.service-single-box h3{
+font-family: "Urbanist", Sans-serif;
+font-size: 25px;
+font-weight: 700;
+}
+.service-single-box p{
+font-family: "Urbanist", Sans-serif;
+font-size: 15px;
+font-weight: 700;
+color: #8850FF;
+}
+.single-classes h2{
+font-family: "Urbanist", Sans-serif;
+font-size: 25px;
+font-weight: 700;
+}
+
+/*---------------------Single Class Page Css Ends Here--------------------------*/
+
+/*---------------------Banner Image Css Starts Here--------------------------*/
+
+
+.banner-image{
+background-repeat: no-repeat;
+background-size: cover;
+padding: 150px 0px 150px 0px;
+background-position: center right;
+}
+
+/*---------------------Banner Image Css Ends Here--------------------------*/
+
+/*--------------------Live Demo Class Section CSS Starts Here---------------------------*/
+.yoga-demo-class-section .swiper-pagination-horizontal{
+bottom: -20px!important;
+}
+/*--------------------Background Class Section CSS Starts Here---------------------------*/
+.yoga-class-icon-col{
+background-color: #42365C;
+border-radius: 35px;
+padding: 13px 12px 13px 12px;
+}
+.yoga-class-section-call-col{
+margin-top: 10px;
+}
+.yoga-class-section-call-col .ekit-header-info{
+padding:10px;
+width:max-content!important;
+
+}
+
+/*--------------------Background Class Section CSS Ends Here---------------------------*/
+
+
+/*--------------------Header CSS Starts Here---------------------------*/
+
+.yoga-header-menu .ekit-wid-con .elementskit-navbar-nav-default.elementskit-menu-container{
+z-index:unset!important;
+}
+/*--------------------Header CSS Ends Here---------------------------*/
+
+
+/*--------------------Classes Section Starts Here---------------------------*/
+.yoga-classes-section .ua-content{
+  margin-left: 25px;
+}
+
+.yoga-classes-section .ua-item{
+background: #fff;
+padding: 10px;
+border-radius: 10px;
+}
+.yoga-classes-section .ua-text p{
+  margin-bottom:0px!important;
+}
+.yoga-classes-section .ua-amox-grid .ua-content{
+  padding-bottom:0px!important;
+  /* padding-top:25px!important; */
+  padding-top: 20px!important;
+}
+.yoga-classes-section .ua-amox-grid .ua-item:hover .ua-img-wrap .ua-img{
+  transform:unset!important;
+}
+
+/*--------------------Classes Section Starts Here---------------------------*/
+
+/*--------------------Slider CSS Starts Here---------------------------*/
+.yoga-slider-section .bdt-title-tag {
+  padding-bottom: 20px!important;
+}
+.yoga-slider-section .bdt-slider-excerpt{
+  margin-bottom:35px!important;
+}
+.yoga-slider-empty-col{
+display: none!important;
+}
+
+.yoga-slider-section .bdt-ps-button:hover{
+background-color:#42365c;
+}
+
+
+
+.yoga-slider-section .bdt-prime-slider-social-icon{
+display:none;
+}
+
+/* .yoga-slider-content-section > div {
+position: static !important;
+} */
+
+
+
+
+.yoga-slider-social-media .ha-social-icons-wrapper svg {
+font-size:15px;
+}
+
+
+.yoga-slider-mail .ekit-header-info{
+display: unset!important;
+}
+.yoga-slider-section .bdt-ps-button{
+background-color:#8850ff;
+
+padding: 15px 40px 15px 25px!important;
+border-radius: 30px;
+}
+.yoga-slider-section .bdt-prime-slider-dragon .bdt-ps-dragon-button .bdt-ps-button{
+
+}
+.yoga-slider-section .bdt-ps-button-border-circle{
+display:none;
+}
+.yoga-slider-section .bdt-ps-button-arrow{
+display:none!important;
+}
+.yoga-slider-section .bdt-ps-button-small-circle{
+display:none;
+}
+.yoga-slider-section .bdt-prime-slider-dragon .bdt-ps-dragon-slide-image{
+-webkit-mask-image:unset!important;
+}
+.yoga-slider-section h1 b{
+color:#8850ff;
+}
+.yoga-slider-section .bdt-prime-slider-dragon .bdt-prime-slider-wrapper .bdt-prime-slider-content .bdt-main-title .bdt-title-tag{
+text-transform:unset!important;
+}
+
+/*--------------------Slider CSS Ends Here---------------------------*/
+
+/*--------------------Counter Section CSS Starts Here---------------------------*/
+.yoga-counter{
+margin-bottom: 0!important;
+}
+.yoga-counter-section .elementor-counter-title{
+position: relative;
+}
+.yoga-counter-section .elementor-counter-title:before{
+content: "";
+width: 53px;
+height: 3px;
+background-color: #fff;
+position: absolute;
+right: 45%;
+
+}
+.yoga-counter-section .elementor-counter-number{
+margin-bottom:20px;
+}
+
+/*--------------------Counter Section CSS Ends Here---------------------------*/
+
+/*--------------------Scubscribe Section CSS Starts Here---------------------------*/
+.yoga-subscribe-left-image{
+position: absolute;
+bottom: 0;
+left: 0;
+}
+.yoga-subscribe-right-image{
+position: absolute;
+bottom: 0;
+right:0;
+}
+.yoga-newsletter-contact-form input[type="submit"]{
+position: absolute;
+right: 0;
+}
+.yoga-newsletter-contact-form input[type="email"]::placeholder{
+color: #7f7291;
+font-weight: 400;
+font-family: 'Urbanist', sans-serif;
+font-size: 16px;
+}
+
+
+.yoga-newsletter-contact-form form:before{
+content: '\f0e0';
+position: absolute;
+top: 20px;
+left: 15px;
+font-family: 'font awesome 5 free';
+font-size: 16px;
+color:#7f7291!important;
+font-weight: bold;
+z-index: 9;
+}
+.yoga-newsletter-contact-form .wpcf7-not-valid-tip {
+display: none;
+}
+.yoga-newsletter-contact-form .wpcf7-response-output{
+border-color:#47CDC4!important;
+padding:0!important;
+margin:0!important;
+}
+
+
+/*--------------------Scubscribe Section CSS Ends Here---------------------------*/
+/*---------------------Home Page Contact CSS Starts Here---------------------------*/
+
+/*---------------------Home Page Contact CSS Starts Here---------------------------*/
+.yoga-home-page-contact-col .elementor-widget-wrap{
+/* height:480px; */
+z-index:1;
+height: 515px;
+}
+.yoga-home-page-contact-col .wpcf7-response-output{
+color:#fff!important;
+}
+.yoga-home-page-contact textarea{
+height: 150px;
+}
+.yoga-map-main-section{
+position:relative!important;
+}
+.yoga-home-page-contact-col .elementor-widget-wrap{
+position: absolute;
+bottom: 0rem;
+}
+.yoga-home-page-contact .wpcf7-response-output{
+border-color:#47CDC4!important;
+padding:0!important;
+margin-top:10px!important;
+}
+.yoga-home-page-contact input[type="email"]{
+width: 100%;
+background: #f2f8f5;
+border: 1px solid #f2f8f5;
+}
+.yoga-home-page-contact input[type="text"]{
+width: 100%;
+background: #f2f8f5;
+border: 1px solid #f2f8f5;
+}
+.yoga-home-page-contact textarea{
+width:100%;
+background: #f2f8f5;
+border: 1px solid #f2f8f5;
+}
+.yoga-home-page-contact input[type="email"]::placeholder{
+color:#c1cbc6;
+text-transform: capitalize;
+font-family: 'Urbanist', sans-serif;
+padding-left:20px;
+}
+.yoga-home-page-contact input[type="text"]::placeholder{
+color:#c1cbc6;
+text-transform: capitalize;
+font-family: 'Urbanist', sans-serif;
+padding-left:20px;
+}
+.yoga-home-page-contact textarea::placeholder{
+color:#c1cbc6;
+text-transform: capitalize;
+font-family: 'Urbanist', sans-serif;
+padding-left:20px;
+}
+
+/*---------------------Home Page Contact CSS Ends Here---------------------------*/
+
+/*---------------------Our Instructor CSS Starts Here---------------------------*/
+.yoga-our-instructor-col .wpr-member-image img{
+margin:0 auto;
+}
+.yoga-our-instructor-col .wpr-member-content{
+display: flex;
+flex-direction: column;
+}
+.yoga-our-instructor-col .wpr-member-name{
+order: 2;
+}
+.yoga-our-instructor-col .wpr-member-job{
+order: 3;
+}
+.yoga-our-instructor-col .wpr-member-social-media{
+order:1;
+}
+.yoga-our-instructor-col .wpr-member-name{
+margin-top:20px!important;
+}
+.yoga-our-instructor-col .wpr-member-content{
+position: absolute;
+
+background: #fff;
+
+border-radius: 61%;
+padding: 40px!important;
+right: 0;
+left: 0 auto;
+left: 0;
+width: max-content;
+margin: 0 auto;
+
+top: 82%;
+}
+
+/*---------------------Our Instructor CSS Ends Here---------------------------*/
+/*---------------------Testimonial Section CSS Starts Here---------------------------*/
+
+/* .yoga-testimonial-section .slick-list{
+  overflow: visible;
+} */
+
+
+ .yoga-testimonial-section .slick-list{
+/* overflow:visible; */
+ }
+
+
+
+ .yoga-testimonial-section .ua-testimonial:after{
+content: "";
+background:#f8f2fd;
+position: absolute;
+width: 15%!important;
+height: 16px;
+margin: 0 auto;
+bottom: -16px;
+border-radius: 0px 0px 25px 25px;
+margin-left: 36px;
+/* z-index:9999!important; */
+}
+
+.yoga-testimonial-section .ua-testimonials-wrap:after{
+	content: "";
+    background: #f8f2fd;
+    position: absolute;
+    width: 70%;
+    height: 16px;
+    margin: 0 auto;
+    bottom: -16px;
+    border-radius: 0px 0px 25px 25px;
+
+    margin-left: 228px;
+
+}
+
+
+.yoga-testimonial-main-heading h2:after{
+  content: '\201D'!important;
+    display: block!important;
+    font-size: 120px!important;
+    line-height: 90px!important;
+    margin-bottom: -30px!important;
+    text-align:center;
+    color: #bf82e9;
+    margin-top: 30px;
+    font-family: 'Font Awesome 5 Brands';
+}
+.yoga-testimonial-section .ua-testimonial{
+width: 80%;
+margin: 0 auto;
+}
+.yoga-testimonial-section .ua-testimonial-content{
+width:60%;
+margin:0 auto;
+}
+.yoga-testimonial-section .ua-testimonial-content{
+/* background-color:#bf82e9; */
+}
+.yoga-testimonial-section .ua-testimonial-footer{
+margin-top:40px;
+}
+.yoga-testimonial-section .ua-testimonial-image img{
+width:90px;
+height: 90px;
+}
+ .ua-testimonials-quote-position-above .ua-testimonial-text:before{
+  display:none!important;
+}
+/*---------------------Testimonial Section CSS Ends Here---------------------------*/
+/*---------------------Footer Section CSS Starts Here---------------------------*/
+
+.footer-contact-us-col .elementor-widget-wrap{
+  padding-left:0!important;
+}
+.footer-about-us-col .elementor-widget-wrap{
+  padding-left:0!important;
+}
+.footer-support-col .elementor-widget-wrap{
+
+  padding-left:0!important;
+}
+
+
+
+.footer-work-hour-col .elementor-widget-wrap{
+  padding-left:0!important;
+
+}
+
+
+.footer-about-us-menu .hfe-nav-menu{
+display:block;
+}
+.footer-support-menu .hfe-nav-menu{
+display:block;
+}
+.footer-about-us-menu .hfe-menu-item{
+padding-left:0!important;
+}
+.footer-support-menu .hfe-menu-item{
+padding-left:0!important;
+}
+
+.footer-contact-us-col h3{
+position:relative;
+}
+.footer-contact-us-col h3:before{
+content: '';
+position: absolute;
+left: -16px;
+width: 8px;
+height: 8px;
+background-color: #8850ff;
+border-radius: 50%;
+top: 15%;
+}
+.footer-about-us-menu ul.hfe-nav-menu li:before {
+content: '';
+position: absolute;
+left: -24px;
+width: 8px;
+height: 8px;
+background-color: #8850ff;
+border-radius: 50%;
+top: 40%;
+}
+.footer-support-menu  ul.hfe-nav-menu li:before {
+content: '';
+position: absolute;
+left: -24px;
+width: 8px;
+height: 8px;
+background-color: #8850ff;
+border-radius: 50%;
+top: 40%;
+}
+.footer-work-hour-col h3{
+position:relative;
+}
+.footer-work-hour-col h3:before{
+content: '';
+position: absolute;
+left: -16px;
+width: 8px;
+height: 8px;
+background-color: #8850ff;
+border-radius: 50%;
+top: 15%;
+}
+/*----------------------Footer Section CSS Ends Here---------------------------*/
+
+/*----------------------Blog Section CSS Starts Here---------------------------*/
+.yoga-blog-section .bew-blog-title{
+  border-left:3px solid  #e7e7e7;
+  padding-left: 10px;
+}
+/* .yoga-blog-section .bew-blog-title{
+  position:relative;
+}
+ .yoga-blog-section .bew-blog-title:before{
+  content="";
+  width:100px;
+  height:100px;
+  background-color:red;
+  position:absolute;
+  top:0;
+
+} */
+.yoga-blog-section img{
+width:100%!important;
+}
+.yoga-blog-section .bew-blog-title a{
+color:#000;
+}
+.yoga-blog-section .bew-blog-title a:hover{
+color:#8850FF;
+}
+.yoga-blog-section .bew-blog-content{
+display: flex;
+flex-direction: column;
+}
+.yoga-blog-section .bew-blog-excerpt{
+order:3;
+}
+.yoga-blog-section .bew-blog-title{
+order:2;
+}
+.yoga-blog-section .bew-post-meta{
+order:1;
+}
+.yoga-blog-section .bew-blog-btn{
+display:none;
+}
+.yoga-blog-section .icon_space{
+display:none!important;
+}
+/*----------------------Blog Section CSS Ends Here---------------------------*/
+
+/*----------------------Basic Yoga CSS Starts Here---------------------------*/
+
+.yoga-basic-yoga-main-section .ekit-header-info{
+background: #fff;
+border-radius: 50px;
+/* padding-right: 15px; */
+padding-right: 30px;
+}
+.yoga-basic-yoga-main-section .ekit-header-info .icon-phone-call1{
+background-color:#42365C;
+padding: 12px;
+border-radius: 35px;
+}
+.yoga-basic-yoga-call-col{
+width:max-content!important;
+}
+
+
+
+/*----------------------Basic Yoga CSS ends Here---------------------------*/
+
+
+
+/*---------------------Sticky Header Section Css starts Here---------------------------*/
+.sticky{
+position: fixed;
+width: 100%!important;
+z-index: 9999;
+top:0;
+left:0;
+background-color:#fff!important;
+}
+/*----------------------Sticky Header Section Css Ends Here-------------------------*/
+/*---------------------header Css Starts Here--------------------------*/
+.yoga-header-section .elementor-container{
+align-items: center;
+}
+/*---------------------header Css Ends Here--------------------------*/
+
+/*---------------------Pre Loader Css Starts Here--------------------------*/
+.demo {
+background:#fff;
+position: absolute;
+left: 0;
+right: 0;
+top: 0;
+bottom: 0;
+ z-index: 4;
+/* z-index: 1000; */
+
+}
+
+
+.loader {
+width:500px;
+height:500px;
+
+margin: 0 auto;
+position: relative;
+top: 30%;
+}
+.loader img {
+width:100%;
+}
+/*---------------------Pre Loader Css Ends Here--------------------------*/
+
+
+@media screen and (min-width: 1440px){
+.elementor-section.elementor-section-boxed>.elementor-container {
+max-width: calc(100% - 16%);
+}
+.single-product-page-custom {
+max-width: calc(100% - 16%);
+}
+.single-classes .container{
+max-width: calc(100% - 16%);
+}
+.single-classes .container-fluid{
+max-width: calc(100% - 16%);
+}
+.search .container{
+	max-width: calc(100% - 16%);
+}
+
+}
+
+
+
+/*---------------------Sample page Css Starts Here--------------------------*/
+.ebs-topbar .custom-container{
+background-color:#8850ff;
+padding: 10px;
+}
+.ebs-topbar .custom-container a{
+text-decoration:none!important;
+}
+.ebs-topbar .social-share a{
+margin-right:10px;
+}
+.ebs-topbar .custom-container a{
+color:#fff;
+}
+.ebs-topbar .custom-container p{
+color:#fff;
+}
+.ebs-topbar .primary-menu ul li{
+list-style: none!important;
+}
+.ebs-topbar .social-share{
+list-style: none;
+}
+.page_item a{
+color:#000;
+list-style: none;
+}
+.page_item{
+list-style: none;
+}
+.ets-menu-header{
+margin-top:50px;
+}
+.ets-menu-header a{
+color:#000;
+text-decoration: none;
+}
+/*---------------------Sample page Css ends Here--------------------------*/
+
+/*---------------------Single Blog page Css Starts Here--------------------------*/
+.single-author-image span{
+font-family: 'Urbanist', sans-serif;
+color: #707070;
+}
+.single-page-title {
+font: 600 36px/60px Jost;
+color: #242424;
+font-family: 'Urbanist', sans-serif;
+}
+.content_page {
+background-color: #fff;
+transform: translateY(-8%);
+}
+
+
+.single-author-image img{
+display:unset!important;
+}
+input#wp-comment-cookies-consent {
+accent-color:#8850FF;
+}
+label{
+display:unset;
+}
+/* check box color change css */
+.single-post .single-post-comment #commentform p.comment-form-url {
+display: none;
+}
+
+.single-post-comment {
+margin-top: 5em;
+width: 46%;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 3px 6px #00000029;
+border-radius: 10px;
+margin-bottom: 30px;
+}
+
+.reply-title{
+font-family: 'Urbanist', sans-serif;';
+font-weight: bolder;
+}
+.single-post-nav span.meta-nav {
+font-weight: 700;
+font-family: 'Urbanist', sans-serif;';
+}
+.single-post-nav .nav-links a {
+color: #000;
+font-family: 'Urbanist', sans-serif;';
+}
+.feature-box img{
+width:100%;
+}
+#single_post{
+max-width: 100%!important;
+width: 100%!important;
+margin: 0 auto!important;
+}
+
+.content_page{
+background-color: #fff;
+transform: translateY(-8%);
+}
+.single-page-title {
+font: 600 36px/60px Jost;
+color: #242424;
+font-family: 'Urbanist', sans-serif;
+}
+span.entry-date, span.entry-comments {
+font: normal 20px/105px Poppins;
+font-family: 'Urbanist', sans-serif;
+}
+.single-author-image a {
+font: normal 20px/105px Poppins;
+letter-spacing: 0;
+/* color: #242424; */
+}
+.single-author-image img {
+width: 25%;
+border-radius: 50%;
+}
+.single-author-image a {
+font: normal 20px/105px Poppins;
+letter-spacing: 0;
+font-family: 'Urbanist', sans-serif;
+}
+.single-post-content p {
+font: 300 20px/45px Poppins;
+letter-spacing: 0;
+color: #242424;
+}
+.meta-box-question {
+font: 500 30px/50px Nunito Sans ;
+color: #242424;
+font-family: 'Urbanist', sans-serif;';
+}
+.single-post-content p {
+font: 300 20px/45px Poppins;
+letter-spacing: 0;
+color: #242424;
+}
+.single-post-content p {
+letter-spacing: 0;
+color: #8B8B8B;
+font-family: 'Urbanist', sans-serif;;
+font-weight: normal;
+}
+li.cat-item {
+list-style-type: none;
+}
+.single-post-social-box .cat-item a {
+font: 400 14px/18px Poppins;
+color: #242424;
+}
+.single-post-social-box li a {
+padding: 5px 15px;
+border: 1px solid #bcbcbc;
+border-radius: 5px;
+background: #fff 0% 0% no-repeat padding-box;
+}
+.single-post-social-box li.cat-item {
+display: inline-block;
+}
+.hover-fx {
+font-size: 16px;
+display: inline-block;
+cursor: pointer;
+margin: 5px;
+width: 35px;
+height: 35px;
+line-height: 35px;
+border-radius: 50%;
+text-align: center;
+position: relative;
+color: #ec1d29;
+background-color: rgba(255,255,255,.1);
+transition: 300ms;
+}
+
+
+.hover-fx:hover {
+background-color: #42365c;
+color: #fff!important;
+}
+.hover-fx {
+font-size: 16px;
+display: inline-block;
+cursor: pointer;
+margin: 5px;
+width: 35px;
+height: 35px;
+line-height: 35px;
+border-radius: 50%;
+text-align: center;
+position: relative;
+
+background-color: rgba(255,255,255,.1);
+transition: 300ms;
+}
+.navigation {
+text-align: center;
+margin: 25px 0;
+}
+.single-post-nav .nav-links {
+display: inline-flex;
+gap: 21em;
+}
+.single-post-nav .nav-previous {
+text-align: left;
+}
+span.entry-date, span.entry-comments {
+font: normal 20px/105px Poppins;
+color: #707070;
+font-family: 'Urbanist', sans-serif;';
+}
+.single-post-social-box .cat-item a {
+font: 400 14px/18px Nunito Sans;
+color: #242424;
+font-family: 'Urbanist', sans-serif;';
+padding: 8px;
+}
+.single-post-social-box li a {
+padding: 5px 15px;
+border: 1px solid #bcbcbc;
+border-radius: 5px;
+background: #fff 0% 0% no-repeat padding-box;
+}
+.wp-block-search__button-outside{
+border: 1px solid black;
+padding: 15px;
+}
+
+
+.feature-box img{
+border-radius:10px;
+}
+#commentform input[type="text"], #commentform input[type="email"], #commentform textarea {
+width: 100%;
+}
+
+.form-submit input, .post-readmore {
+font-family: "Manrope", Sans-serif;
+text-transform: uppercase;
+background-color:#8850FF;
+padding: 20px 15px 15px 15px;
+color: #fff!important;
+font-size: 16px;
+border: none;
+font-family: 'Urbanist', sans-serif;';
+}
+.form-submit input:hover{
+background-color:#42365C;
+}
+
+.ebs-single-post-page .single-content, .ebs-single-post-page .metabox {
+margin-block: 10px;
+}
+.ebs-single-post-page .metabox > *:not(:last-child) {
+margin-inline-end: 20px;
+}
+
+.ebs-single-post-page .metabox i, .ebs-single-post-page .socila_share a {
+color: #8850ff;
+}
+.ebs-single-post-page path {
+
+}
+.ebs-single-post-page .metabox :is(span, a) {
+font-size: 16px;
+color: #004375;
+font-weight: 400;
+}
+.ebs-single-post-page .post_ctg {
+display: flex;
+}
+.ebs-single-post-page .post_ctg ul {
+margin-inline-start: 10px;
+}
+.ebs-single-post-page .post_ctg ul a, .logged-in-as a {
+color: #000;
+font-weight: 700;
+}
+.share_icon {
+position: relative;
+}
+
+.social-btn{
+display: inline-block;
+width: 50px;
+height: 50px;
+background: #f1f1f1;
+margin: 6px;
+border-radius: 30%;
+box-shadow: 0 5px 15px -5px #00000070;
+color: #3498db;
+overflow: hidden;
+position: relative;
+}
+.socila_share svg {
+padding: 10px;
+}
+
+.social-btn path{
+line-height: 50px;
+font-size: 26px;
+transition: 0.2s linear;
+}
+.social-btn i{
+line-height: 50px;
+font-size: 26px;
+transition: 0.2s linear;
+}
+.social-btn:hover i{
+transform: scale(1.3);
+color: #fff;
+}
+.socila_share b {
+position: relative;
+top: -15px;
+}
+
+
+
+
+
+
+
+/*---------------------Single Blog page Css Ends Here--------------------------*/
+
+
+
+
+/*---------------------Uncategory sidebar Css Starts Here--------------------------*/
+
+#sidebar  .recent-post-box{
+display:flex;
+gap:10px;
+align-items: center;
+}
+#sidebar.wp-block-search__button-outside {
+border: 1px solid #000;
+padding: 15px;
+}
+
+#sidebar #recent-posts-2 li {
+list-style-type: none;
+}
+#sidebar .post-thumb.col-md-4.col-sm-4.col-4 {
+flex: 0 0 50%;
+}
+
+#sidebar #recent-posts-2{
+border: 1px solid black;
+padding: 10px;
+margin-top:20px;
+}
+#sidebar #block-4{
+border: 1px solid black;
+padding: 10px;
+margin-top:20px;
+margin-bottom: 20px;
+}
+#sidebar .wp-block-search__button{
+background-color:#8850ff;
+margin-left:-1px;
+color:#fff;
+padding:10px;
+font-size: 16px;
+font-family: 'Urbanist', sans-serif;
+}
+#sidebar .post-content a{
+color:black;
+font-family: 'Urbanist', sans-serif;
+}
+#sidebar .ea-readmore-icon{
+text-transform: capitalize;
+color: #ffb424;
+}
+#sidebar .recent-post-box{
+margin-top:10px;
+}
+#sidebar .widget-title{
+background-color: #8850ff;
+padding: 10px;
+color:#fff;
+font-size: 20px;
+font-family: 'Urbanist', sans-serif;
+}
+#sidebar  .wp-block-group__inner-container h2{
+background-color:#8850ff;
+padding: 10px;
+color:#fff;
+font-size: 20px;
+font-family: 'Urbanist', sans-serif;
+}
+#sidebar .wp-block-latest-comments{
+margin-top:10px;
+}
+#sidebar .wp-block-latest-comments a{
+
+}
+
+#sidebar .ea-button-wrap{
+margin-top: 10px;
+}
+#sidebar .ea-readmore-icon{
+background: #004375 0% 0% no-repeat padding-box;
+text-transform: capitalize;
+color: white;
+padding:10px;
+clip-path: polygon(0 0, 100% 0, 90% 100%, 0% 100%);
+}
+#sidebar .ea-readmore-icon:hover{
+background-color:#48BF84!important;
+}
+#sidebar ul,ol{
+padding-left:0!important;
+}
+#sidebar .post-thumb img{
+width:100%;
+}
+.archive .page-title {
+	margin-top: 50px;
+margin-bottom:50px;
+
+font-family: "Urbanist", Sans-serif;
+
+    font-weight: 700;
+    color: #000;
+}
+#sidebar .post-thumb img {
+height: auto;
+max-width: 100%;
+border: none;
+}
+#sidebar .recent-post-box .post-content {
+width: 50%;
+}
+#sidebar .wp-block-latest-comments__comment-author{
+color: #8850FF;
+font-family: 'Urbanist', sans-serif;
+}
+#sidebar .wp-block-latest-comments__comment-link{
+color:#000;
+font-family: 'Urbanist', sans-serif;
+}
+.single-product-page-custom .post-content h4{
+margin-bottom: 20px;
+}
+.single-product-page-custom .post-categories a {
+color: #000;
+list-style-type: none!important;
+font-family: 'Urbanist', sans-serif;
+}
+.single-product-page-custom .post-content h4 {
+margin-bottom: 35px!important;
+margin-top: 15px;
+font-family: 'Urbanist', sans-serif;
+}
+.single-product-page-custom .postbox{
+margin-top:30px;
+margin-bottom: 30px;
+}
+.single-product-page-custom .post-categories{
+margin-top:10px;
+}
+.single-product-page-custom .bradcrumbs a{
+color:#000;
+}
+.single-product-page-custom .bradcrumbs svg{
+margin-right: 10px;
+}
+/*---------------------Uncategory sidebar Css Ends Here--------------------------*/
+
+
+/* Position Section on Slider */
+  /* .yoga-slider-content-section, .yoga-slider-content-section > section {
+position: static !important;
+}
+.yoga-slider-content-section div{
+position: static !important;
+} */
+.yoga-slider-section .bdt-ps-slide-img{
+  background-position: 125%!important;
+}
+
+.yoga-slider-section .bdt-prime-slider-content{
+  margin-left: 150px!important;
+}
+.yoga-slider-content-section .elementor-column{
+position: static!important;
+}
+.yoga-slider-content-section .elementor-widget-wrap{
+position: static!important;
+}
+.yoga-slider-content-section .elementor-section{
+position: static!important;
+}
+.yoga-slider-content-section .elementor-section .elementor-container{
+position: static!important;
+}
+
+/* .yoga-slider-strech-col .elementor-widget-wrap{
+ position: absolute !important;
+bottom:0;
+width:max-content;
+} */
+
+ .yoga-slider-strech-col .elementor-widget-wrap {
+    position: absolute !important;
+    /* width: max-content; */
+    top: -231px;
+  /* right: 32%; */
+  width: 250px;
+    top: -231px;
+    right: 40%;
+}
+/* .yoga-slider-mail-col .elementor-widget-wrap{
+
+ position: absolute !important;
+top: 44%;
+width:max-content;
+
+ left: 50%;
+} */
+.yoga-slider-mail-col .elementor-widget-wrap {
+    position: absolute !important;
+    top: -532px;
+    width: max-content;
+  left: 40%;
+}
+.yoga-slider-mail-col .fa-envelope{
+background: #47cdc4;
+padding: 10px;
+border-radius: 50px;
+ position: relative;
+top:-20px;
+}
+.yoga-slider-mail-col .ekit-header-info a{
+flex-wrap: unset!important;
+}
+ /* .yoga-slider-running-col .elementor-widget-wrap{
+ position: absolute !important;
+top: 58%;
+right: 0;
+width:max-content;
+
+} */
+.yoga-slider-running-col .elementor-widget-wrap {
+    position: absolute !important;
+    /* top: -591px; */
+    top: -565px;
+    right: 0;
+    /* width: max-content; */
+    width: 198px;
+}
+/* .yoga-slider-social-icon-col .elementor-widget-wrap{
+ position: absolute!important;
+bottom: 0;
+right: 0;
+width:max-content;
+} */
+
+.yoga-slider-social-icon-col .elementor-widget-wrap {
+    position: absolute!important;
+    bottom: 40px;
+    right: 0;
+    width: max-content;
+    z-index:0!important;
+}
+/* .yoga-slider-call-col .elementor-widget-wrap{
+ position: absolute!important;
+right: 0;
+top: 26%;
+width: max-content;
+} */
+.yoga-slider-call-col .elementor-widget-wrap {
+    position: absolute!important;
+    right: 0;
+    /* top: -200px; */
+    width: max-content;
+    bottom: 761px;
+}
+
+.yoga-slider-call-col .icon-phone-call1{
+background: #ff5050;
+padding: 10px;
+border-radius: 50px;
+ position: relative;
+top: -21px;
+}
+/* Position Section on Slider */
+/*---------------------FAQ  Css Starts Here--------------------------*/
+
+.yoga-faq-section .wpcf7-response-output{
+border-color:#8850ff!important;
+}
+.yoga-faq-section .htwoolentor-faq-card.is-active .htwoolentor-faq-head{
+background:#8850ff;
+border:1px solid #8850ff;
+}
+.yoga-faq-section input[type=text]{
+padding: 15px!important;
+border: 1px solid #707070;
+border-radius: 10px;
+display: block;
+margin:0 auto;
+}
+.yoga-faq-section input[type=submit] {
+display: block;
+margin: 0 auto;
+margin-top: 10px;
+background-color:#8850ff;
+color: #fff;
+font-family: 'Urbanist', sans-serif!important;
+font-size: 20px;
+border-radius: 10px;
+
+padding: 10px 20px 10px 20px;
+border: 1px solid #8850ff;
+}
+}
+
+
+
+/*---------------------FAQ  Css Ends Here--------------------------*/
+
+
+/*---------------------Inner Page Contact Us CSS starts Here--------------------------*/
+
+.yoga-inner-page-contact-form label{
+font-family: 'Urbanist', sans-serif!important;
+}
+.yoga-inner-page-contact-form input::placeholder{
+font-family: 'Urbanist', sans-serif!important;
+color:#8B8B8B;
+}
+.yoga-inner-page-contact-form .wpcf7-textarea::placeholder{
+font-family: 'Urbanist', sans-serif!important;
+color:#8B8B8B;
+}
+.yoga-inner-page-contact-form input[type="email"], .yoga-inner-page-contact-form input[type=text] {
+width: 100%;
+padding: 10px;
+margin-bottom: 20px!important;
+margin-top: 10px!important;
+border:1px solid #1212124D!important;
+border-radius: 5px!important;
+}
+.yoga-inner-page-contact-form  .wpcf7-textarea{
+width: 100%;
+padding: 10px;
+margin-bottom: 20px;
+margin-top: 10px;
+border:1px solid #1212124D!important;
+border-radius: 5px!important;
+}
+
+.yoga-inner-page-contact-form  input[type=submit]{
+background:#8850ff;
+color: #fff!important;
+font-family: 'Urbanist', sans-serif!important;
+border-radius:10px;
+padding:15px 25px!important;
+font-size: 20px;
+border: unset!important;
+cursor: pointer;
+}
+.yoga-inner-page-contact-form  input[type=submit]:hover{
+background-color:#42365C;
+}
+.yoga-inner-page-breadcrum a{
+color:#fff!important;
+font-size: 20px;
+}
+.yoga-inner-page-breadcrum svg{
+color:#fff!important;
+margin-right:10px;
+font-family: 'Urbanist', sans-serif!important;
+font-size: 20px;
+font-weight: 800;
+}
+.yoga-inner-page-breadcrum .woolentor-breadcrumb{
+color:#fff;
+font-family: 'Urbanist', sans-serif!important;
+font-size: 20px;
+font-weight: 800;
+}
+.yoga-inner-page-heading{
+width:max-content!important;
+font-weight: 800;
+}
+.yoga-inner-page-heading h2{
+margin-bottom: 10px;
+font-weight: 800;
+}
+
+/*---------------------Inner Page Contact Us CSS ends Here--------------------------*/
+
+
+
+/* sidebar css starts here */
+.yoga-blog-with-sidebar .wp-block-latest-comments__comment-author{
+color:#8850FF!important;
+font-weight: 600;
+}
+.yoga-blog-with-sidebar .post-content{
+flex: 0 0 50%!important;
+}
+
+.yoga-blog-with-sidebar .recent-post-box{
+display:flex;
+gap:10px;
+align-items: center;
+}
+.yoga-blog-with-sidebar .wp-block-search__button-outside {
+border: 1px solid #000;
+padding: 15px;
+}
+
+.yoga-blog-with-sidebar #recent-posts-2 li {
+list-style-type: none;
+}
+.yoga-blog-with-sidebar .post-thumb.col-md-4.col-sm-4.col-4 {
+flex: 0 0 50%;
+}
+
+.yoga-blog-with-sidebar #recent-posts-2{
+border: 1px solid black;
+padding: 10px;
+margin-top:20px;
+}
+.yoga-blog-with-sidebar #block-4{
+border: 1px solid black;
+padding: 10px;
+margin-top:20px;
+margin-bottom: 20px;
+}
+.yoga-blog-with-sidebar .wp-block-search__button{
+background-color:#FF7A19;
+margin-left:-1px;
+color:#fff;
+padding:10px;
+font-size: 16px;
+}
+.yoga-blog-with-sidebar .post-content a{
+color:black;
+font-family:Poppins;
+}
+.yoga-blog-with-sidebar.ea-readmore-icon{
+text-transform: capitalize;
+color: #ffb424;
+}
+.yoga-blog-with-sidebar .recent-post-box{
+margin-top:10px;
+}
+.yoga-blog-with-sidebar .widget-title{
+background-color: #FF7A19;
+padding: 10px;
+color:#fff;
+font-size: 20px;
+}
+.yoga-blog-with-sidebar .wp-block-group__inner-container h2{
+background-color:#FF7A19;
+padding: 10px;
+color:#fff;
+font-size: 20px;
+}
+.yoga-blog-with-sidebar .wp-block-latest-comments{
+margin-top:10px;
+}
+
+.yoga-blog-with-sidebar .ea-button-wrap{
+margin-top: 10px;
+}
+.yoga-blog-with-sidebar .ea-readmore-icon{
+background: #004375 0% 0% no-repeat padding-box;
+text-transform: capitalize;
+color: white;
+padding:10px;
+clip-path: polygon(0 0, 100% 0, 90% 100%, 0% 100%);
+}
+.yoga-blog-with-sidebar .ea-readmore-icon:hover{
+background-color:#48BF84!important;
+}
+.yoga-blog-with-sidebar ul,ol{
+padding-left:0!important;
+}
+.yoga-blog-with-sidebar .post-thumb img{
+width:100%;
+}
+.yoga-blog-with-sidebar ul,ol{
+padding-left:0!important;
+}
+.yoga-blog-with-sidebar  .recent-post-box{
+display:flex;
+gap:10px;
+align-items: center;
+font-family: 'Urbanist', sans-serif!important;
+}
+.yoga-blog-with-sidebar .wp-block-search__button-outside {
+border: 1px solid #000;
+padding: 15px;
+font-family: 'Urbanist', sans-serif!important;
+}
+
+.yoga-blog-with-sidebar #recent-posts-2 li {
+list-style-type: none;
+font-family: 'Urbanist', sans-serif!important;
+}
+.yoga-blog-with-sidebar .post-thumb.col-md-4.col-sm-4.col-4 {
+flex: 0 0 50%;
+}
+
+.yoga-blog-with-sidebar #recent-posts-2{
+border: 1px solid black;
+padding: 10px;
+margin-top:20px;
+font-family: 'Urbanist', sans-serif!important;
+}
+.yoga-blog-with-sidebar #block-4{
+border: 1px solid black;
+padding: 10px;
+margin-top:20px;
+font-family: 'Urbanist', sans-serif!important;
+}
+.yoga-blog-with-sidebar .wp-block-search__button{
+background-color:#8850FF;
+margin-left:-1px;
+color:#fff;
+padding:10px;
+font-size: 16px;
+font-family: 'Urbanist', sans-serif!important;
+}
+.yoga-blog-with-sidebar .post-content a{
+color:black;
+font-family: 'Urbanist', sans-serif!important;
+font-size: 13px;
+}
+.yoga-blog-with-sidebar .ea-readmore-icon{
+text-transform: capitalize;
+color: #ffb424;
+font-family: 'Urbanist', sans-serif!important;
+}
+.yoga-blog-with-sidebar  .recent-post-box{
+margin-top:10px;
+font-family: 'Urbanist', sans-serif!important;
+}
+.yoga-blog-with-sidebar .widget-title{
+background-color:#8850FF;
+padding: 10px;
+color:#fff;
+font-family: 'Urbanist', sans-serif!important;
+}
+.yoga-blog-with-sidebar  .wp-block-group__inner-container h2{
+background-color:#8850FF;
+padding: 10px;
+color:#fff;
+font-family: 'Urbanist', sans-serif!important;
+}
+.yoga-blog-with-sidebar .wp-block-latest-comments{
+margin-top:10px;
+}
+.yoga-blog-with-sidebar .wp-block-latest-comments a{
+color:#000;
+font-family: 'Urbanist', sans-serif!important;
+}
+
+.yoga-blog-with-sidebar .ea-button-wrap{
+margin-top: 10px;
+}
+.yoga-blog-with-sidebar .ea-readmore-icon{
+background: #004375 0% 0% no-repeat padding-box;
+text-transform: capitalize;
+color: white;
+padding:10px;
+clip-path: polygon(0 0, 100% 0, 90% 100%, 0% 100%);
+font-family: 'Urbanist', sans-serif!important;
+}
+.yoga-blog-with-sidebar .ea-readmore-icon:hover{
+background-color:#48BF84!important;
+font-family: 'Urbanist', sans-serif!important;
+}
+/* sidebar css ends here */
+
+/*--------------------Inner Quote Page CSS Starts Here---------------------------*/
+
+.yoga-quote-form .wpcf7-list-item{
+	margin: 0 10px 0 0;
+}
+
+.yoga-quote-form  input[type="number"]{
+	width: 100%;
+	padding: 10px;
+	border: 1px solid #1212124D!important;
+	border-radius: 5px!important;
+	margin-bottom: 10px!important;
+    margin-top: 10px!important;
+}
+
+.yoga-quote-form  input[type="email"]{
+	width: 100%;
+	padding: 10px;
+	border: 1px solid #1212124D!important;
+	border-radius: 5px!important;
+	margin-bottom: 10px!important;
+    margin-top: 10px!important;
+}
+.yoga-quote-form .info label{
+font-family: 'Urbanist', sans-serif!important;
+    font-weight: 600;
+	font-size: 18px;
+	}
+
+
+.yoga-quote-form  input[type="text"]{
+width: 100%;
+padding: 10px;
+border: 1px solid #1212124D!important;
+border-radius: 5px!important;
+margin-bottom: 10px!important;
+    margin-top: 10px!important;
+}
+.yoga-quote-form textarea{
+	width: 100%;
+	padding: 10px;
+	border: 1px solid #1212124D!important;
+	border-radius: 5px!important;
+	margin-bottom: 10px!important;
+    margin-top: 10px!important;
+}
+.yoga-quote-form p{
+	margin-bottom:0!important;
+}
+.yoga-quote-form .wpcf7-checkbox{
+display: flex;
+flex-direction: column;
+}
+.yoga-quote-form form{
+margin: auto;
+width: 80%;
+
+padding: 20px 35px;
+font-family: "Urbanist", Sans-serif;
+box-shadow: 0px 3px 6px #00000029;
+}
+.yoga-quote-form .quote_page_title h2{
+text-align: center;
+background: #8850FF;
+color:#fff;
+padding: 15px;
+font-family: "Urbanist", Sans-serif;
+font-weight: 700;
+}
+.client_detail_title_3 h2{
+margin-top: 30px;
+font-weight: 700;
+background: #8850FF;
+color: #fff;
+text-align: center;
+font-family: "Urbanist", Sans-serif;
+margin-bottom: 30px;
+padding: 15px;
+}
+
+.client_detail_title_1 h2{
+margin-top: 30px;
+font-weight: 700;
+font-size: 25px;
+font-family: "Urbanist", Sans-serif;
+margin-bottom: 20px;
+
+}
+.yoga-quote-form .wpcf7-select{
+padding:5px;
+margin-top:10px;
+}
+.client_detail_title_2 h2{
+margin-top: 30px;
+font-weight: 700;
+font-size: 25px;
+font-family: "Urbanist", Sans-serif;
+margin-bottom: 20px;
+}
+.yoga-quote-form input[type="submit"]{
+padding: 12px;
+
+color: #fff;
+background: #8850FF;
+font-family: "Urbanist", Sans-serif;
+border-color: #8850FF;
+font-weight: 700;
+font-size: 20px;
+
+}
+.yoga-quote-form input[type="submit"]:hover{
+background-color:#42365C;
+border-color:#42365C;
+}
+.yoga-quote-form .info{
+font-family: "Urbanist", Sans-serif;
+}
+.yoga-quote-form  input[type="text"]::placeholder ,.yoga-quote-form  input[type="number"]::placeholder,.yoga-quote-form  input[type="email"]::placeholder{
+font-family: "Urbanist", Sans-serif;
+font-size: 18px;
+padding-left:10px;
+}
+	/* .yoga-quote-form  input[type="number"]::placeholder{
+	font-family: "Urbanist", Sans-serif;
+	font-size: 18px;
+	padding-left:10px;
+	}
+	.yoga-quote-form  input[type="email"]::placeholder{
+	font-family: "Urbanist", Sans-serif;
+	font-size: 18px;
+	padding-left:10px;
+	} */
+.yoga-quote-form .info .name{
+
+font-size:20px;
+margin-bottom: 5px;
+}
+.yoga-quote-form .info .number{
+margin-bottom: 5px;
+font-size:20px;
+}
+.yoga-quote-form .info .email{
+margin-bottom: 5px;
+font-size:20px;
+}
+.yoga-quote-form  .wpcf7-textarea{
+width:100%;
+}
+.yoga-quote-form .wpcf7-response-output{
+border-color: #8850FF!important;
+}
+.yoga-quote-form .wpcf7-form-control-wrap{
+accent-color:#8850FF;
+}
+.client_detail_title_4 h2{
+margin-top: 30px;
+font-weight: 700;
+font-size: 25px;
+font-family: "Urbanist", Sans-serif;
+margin-bottom: 20px;
+}
+.client_detail_title_5 h2{
+margin-top: 30px;
+font-weight: 700;
+font-size: 25px;
+font-family: "Urbanist", Sans-serif;
+margin-bottom: 20px;
+}
+.yoga-quote-form .wpcf7-list-item{
+margin-bottom: 10px;
+font-family: "Urbanist", Sans-serif;
+}
+
+/*--------------------Inner Quote Page CSS Starts Here---------------------------*/
+
+
+
+
+
+
+
+/*--------------------Most Common Types Of Yoga Section CSS Starts Here---------------------------*/
+
+.yoga-most-common-type-slider .wpr-grid-slider-arrow{
+  width: 50px!important;
+    height: 50px!important;
+}
+
+.yoga-most-common-type-section .elementor-column{
+position: static!important;
+}
+.yoga-most-common-type-section .elementor-widget-wrap{
+position: static!important;
+}
+.yoga-most-common-type-section .elementor-widget{
+position: static!important;
+}
+.yoga-most-common-type-section .slick-list, .yoga-most-common-section-slider .slick-slider, .yoga-most-common-section-slider .slick-track{
+position: static!important;
+}
+.yoga-most-common-type-slider .wpr-grid-slider-next-arrow{
+/* right:0!important; */
+right: 3%;
+top:10%!important;
+left:unset!important;
+z-index:0;
+}
+
+.yoga-most-common-type-slider .wpr-grid-slider-prev-arrow{
+right: 8%!important;
+top: 6%!important;
+transform:unset!important;
+left:unset!important;
+z-index:0;
+}
+.yoga-most-common-type-slider .wpr-grid-slider-dots{
+top: 105%!important;
+}
+/*--------------------Most Common Types Of Yoga Section CSS Ends Here---------------------------*/
+
+/*--------------------Footer Section CSS Starts Here---------------------------*/
+
+.footer-main-heading h2{
+  margin-left: -25px!important;
+}
+
+/*--------------------Footer Section CSS Ends Here---------------------------*/
+
+
+
+
+/*--------------------Search Page CSS Starts Here---------------------------*/
+
+#wpel-sidebar #recent-posts-2 li {
+list-style-type: none;
+}
+#wpel-sidebar .wp-block-search__button {
+background-color: #8850FF;
+margin-left: -1px;
+color: #fff;
+padding: 10px;
+font-size: 16px;
+}
+#wpel-sidebar #recent-posts-2 {
+border: 1px solid black;
+padding: 10px;
+margin-top: 20px;
+}
+#wpel-sidebar .recent-post-box {
+display: flex;
+gap: 10px;
+}
+#wpel-sidebar .post-thumb img{
+height: auto;
+max-width: 100%;
+border: none;
+}
+#wpel-sidebar .post-content a{
+color: black;
+font-family: "Urbanist", Sans-serif;
+    font-weight: 500;
+}
+#wpel-sidebar  .recent-post-box {
+margin-top: 10px;
+}
+#wpel-sidebar  .widget-title {
+background-color:#8850FF;
+padding: 10px;
+color: #fff;
+font-size:20px;
+}
+#wpel-sidebar #block-4 {
+border: 1px solid black;
+padding: 10px;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+#wpel-sidebar .wp-block-group__inner-container h2 {
+background-color: #8850FF;
+padding: 10px;
+color: #fff;
+font-size:20px;
+}
+#sidebar .post-thumb img{
+height: auto;
+max-width: 100%;
+border: none;
+}
+.recent-posts-2  ol, ul{
+	padding-left:0!important;
+}
+.wp-block-latest-comments__comment-meta a{
+color:#8850FF;
+font-family: "Urbanist", Sans-serif;
+    font-weight: 500;
+}
+.wp-block-latest-comments__comment-link{
+	color:#000!important;
+	font-family: "Urbanist", Sans-serif;
+    font-weight: 500;
+}
+#wpel-sidebar{
+	margin-top:50px;
+}
+.search-result{
+		margin-top:50px;
+}
+.recent-post-box{
+	align-items:center;
+}
+.search .bradcrumbs{
+	color:#fff;
+}
+.search .bradcrumbs a{
+		color:#fff;
+}
+.search-result{
+	font-size:40px;
+}
+.search .single-page-banner-tittle{
+	color: #fff;
+    border-bottom: 4px solid #fff;
+    width: max-content;
+    font-family: "Urbanist", Sans-serif;
+    font-weight: 700;
+}
+.search .single-page-banner-tittle h2{
+margin-bottom: 10px;
+}
+.search .bradcrumbs{
+	font-family: 'Urbanist', sans-serif!important;
+    font-size: 20px;
+    font-weight: 800;
+}
+/*--------------------Search Page CSS Ends Here---------------------------*/
+
+
+
+
+/*--------------------Search result CSS starts Here---------------------------*/
+
+.search .single-img img{
+	width:100%;
+	margin-bottom:20px;
+	height:100%;
+}
+.search .entry-title{
+	margin-top: 50px;
+    margin-bottom: 50px;
+}
+.search .single-content{
+	align-items: center;
+    display: flex;
+
+}
+
+.search .postbox-content .posttitle a{
+
+font-family: "Urbanist", Sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+		color: #000;
+	}
+
+	.search input[type="submit"]{
+		background-color: #8850ff;
+    margin-left: -4px;
+    color: #fff;
+    /* padding: 10px; */
+    font-size: 16px;
+    font-family: 'Urbanist', sans-serif;
+  padding: 10px 20px;
+		border:none!important;
+		font-weight: 600;
+	}
+	.search input[type="search"]{
+		border: 1px solid #949494;
+    flex-grow: 1;
+    margin-left: 0;
+    margin-right: 0;
+    min-width: 3em;
+    padding: 8px;
+    text-decoration: unset!important;
+	}
+
+	.search .read-more{
+		background-color: #8850ff;
+		padding:10px;
+		color:#fff;
+		font-family: 'Urbanist', sans-serif;
+		font-weight: 500;
+	}
+	 .search .single-img{
+		 margin-bottom:20px;
+	 }
+
+
+.archive .single-img img{
+	width:100%;
+	height:100%;
+}
+.archive .single-img{
+	margin-bottom:30px;
+}
+.archive .single-content {
+    /* align-items: center;
+    display: flex; */
+}
+.archive .read-more{
+	background: #8850ff;
+	padding: 10px;
+    color: #fff;
+		font-family: "Urbanist", Sans-serif;
+}
+.archive .postbox-content .posttitle a {
+    font-family: "Urbanist", Sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    color: #000;
+}
+
+.archive .post-text{
+	font-family: "Urbanist", Sans-serif;
+	font-size:16px;
+	font-weight: 500;
+}
+.archive .read-more:hover{
+	background:#42365C;
+}
+.search .read-more:hover{
+		background:#42365C;
+}
+
+.archive .single-page-banner-tittle{
+
+		color: #FFFFFF;
+    font-family: "Urbanist", Sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+		border-bottom:4px solid #fff;
+		width:max-content;
+}
+.archive .single-page-breadcrumbs{
+	color:#fff;
+}
+.archive .single-page-breadcrumbs a{
+	color:#fff;
+    font-family: 'Urbanist', sans-serif!important;
+    font-size: 20px;
+    font-weight: 800;
+}
+/* .archive  h1{
+	margin-bottom:10px;
+} */
+.search .page-numbers{
+	color:#000;
+	font-family: 'Urbanist', sans-serif!important;
+	  font-weight: 800;
+}
+/* #sidebar{
+	margin-top:0!important;
+} */
+
+.search .post-text{
+	font-family: "Urbanist", Sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+.search .sorry-msg{
+font-size: 20px;
+    font-weight: 400;
+			font-family: "Urbanist", Sans-serif;
+	}
+	.search .entry-title{
+			font-family: "Urbanist", Sans-serif;
+			font-weight: 700;
+	}
+
+
+
+
+/*--------------------Search result CSS starts Here---------------------------*/

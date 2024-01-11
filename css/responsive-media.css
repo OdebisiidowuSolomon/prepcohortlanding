@@ -1,0 +1,3493 @@
+@media screen and (max-width:1451px) and (min-width:1041px){
+/*--------------------Header CSS Starts Here---------------------------*/
+.yoga-header-logo-col img{
+display: block;
+margin: 0 auto;
+}
+.yoga-header-menu-col{
+width:60%!important;
+}
+.yoga-header-logo-col{
+width:20%!important;
+}
+.yoga-get-quote-col{
+width:20%!important;
+}
+/*--------------------Header CSS Ends Here---------------------------*/
+}
+
+@media screen and (max-width:1440px) and (min-width:1367px){
+  .archive .postpic{
+    margin-bottom:30px!important;
+  }
+
+  .search .postpic{
+    margin-top:20px;
+  }
+  .search .post-text{
+    font-size: 15px;
+  }
+
+  .yoga-testimonial-section .ua-testimonials-wrap:after {
+      content: "";
+      background: #f8f2fd;
+      position: absolute;
+      width: 70%;
+      height: 16px;
+      margin: 0 auto;
+      bottom: -16px;
+      border-radius: 0px 0px 25px 25px;
+      margin-left: 176px;
+
+  }
+
+
+
+
+
+  .yoga-3-steps-reservation h2{
+    font-size: 20px!important
+  }
+
+  .yoga-slider-running-col .elementor-widget-wrap{
+    top: -420px!important;
+  }
+  .yoga-slider-strech-col .elementor-widget-wrap{
+    top: -188px;
+    right: 34%;
+  }
+  .yoga-most-common-type-slider .wpr-grid-slider-prev-arrow{
+    top: 5%!important;
+  }
+
+
+
+  .yoga-subscribe-main-section{
+  padding:0!important;
+  }
+  .yoga-most-common-type-slider .wpr-grid-slider-prev-arrow{
+  right: 9%!important;
+  }
+  /*---------------------Single Blog Page css starts here--------------------------*/
+  .single-page-metaimage img {
+  width: 100%;
+  }
+  .content_page{
+  background-color: #fff;
+  transform: translateY(-3%);
+  }
+  /*---------------------Single Blog Page css ends here--------------------------*/
+  /*--------------------Inner Quote Page CSS Starts Here---------------------------*/
+  .yoga-quote-form form{
+  width:100%;
+  padding: 20px 20px!important;
+  }
+  /*--------------------Inner Quote Page CSS Ends Here---------------------------*/
+
+  /*--------------------Scubscribe Section CSS Starts Here---------------------------*/
+
+  .yoga-home-subscribe-heading h2{
+  font-size: 30px!important;
+  }
+  /* .yoga-subscribe-main-section  .elementor-element.{
+  padding: -1px 0px 070px 0px!important;
+  } */
+
+
+  /*--------------------Scubscribe Section CSS Ends Here---------------------------*/
+  /*--------------------Header CSS Starts Here---------------------------*/
+  .yoga-header-logo-col img{
+  display: block;
+  margin: 0 auto;
+  }
+  .yoga-header-menu-col{
+  width:60%!important;
+  }
+  .yoga-header-logo-col{
+  width:20%!important;
+  }
+  .yoga-get-quote-col{
+  width:20%!important;
+  }
+  /*--------------------Header CSS Ends Here---------------------------*/
+  /*---------------------slider css starts here--------------------------*/
+  .yoga-slider-section .bdt-title-tag{
+  font-size: 40px!important;
+  line-height: 50px!important;
+  padding-bottom:20px!important;
+  width:65%;
+  }
+  .yoga-slider-section .bdt-slider-excerpt{
+  font-size:15px!important;
+  width:65%;
+  }
+  .yoga-slider-section .bdt-ps-slide-img{
+  /* background-position: 100%!important; */
+  /* background-size: auto!important; */
+  }
+  .yoga-slider-mail-col .elementor-widget-wrap {
+
+  position: absolute !important;
+      top: -542px;
+      width: max-content;
+      left: 37%;
+  }
+  .yoga-slider-call-col .elementor-widget-wrap{
+  bottom: 730px;
+  }
+
+
+  /*---------------------slider css ends here--------------------------*/
+
+}
+
+@media screen and (max-width:1366px) and (min-width:1201px){
+
+
+  /*---------------------testimonial css Starts here--------------------------*/
+  .yoga-testimonial-section .ua-testimonials-wrap:after {
+    content: "";
+    background: #f8f2fd;
+    position: absolute;
+    width: 70%;
+    height: 16px;
+    margin: 0 auto;
+    bottom: -16px;
+    border-radius: 0px 0px 25px 25px;
+    margin-left: 170px;
+}
+
+  /*---------------------testimonial css Starts here--------------------------*/
+
+
+
+
+  .yoga-slider-running-col .elementor-widget-wrap{
+    top: -380px;
+  }
+  .yoga-slider-strech-col .elementor-widget-wrap{
+    /* top: -188px;
+      right: 20%; */
+      top: -172px;
+    right: 32%;
+  }
+  .yoga-most-common-type-slider .wpr-grid-slider-prev-arrow{
+    top: 5%!important;
+  }
+
+
+
+  .yoga-subscribe-main-section{
+  padding:0!important;
+  }
+  .yoga-most-common-type-slider .wpr-grid-slider-prev-arrow{
+  right: 9%!important;
+  }
+  /*---------------------Single Blog Page css starts here--------------------------*/
+  .single-page-metaimage img {
+  width: 100%;
+  }
+  .content_page{
+  background-color: #fff;
+  transform: translateY(-3%);
+  }
+  /*---------------------Single Blog Page css ends here--------------------------*/
+  /*--------------------Inner Quote Page CSS Starts Here---------------------------*/
+  .yoga-quote-form form{
+  width:100%;
+  padding: 20px 20px!important;
+  }
+  /*--------------------Inner Quote Page CSS Ends Here---------------------------*/
+
+  /*--------------------Scubscribe Section CSS Starts Here---------------------------*/
+
+  .yoga-home-subscribe-heading h2{
+  font-size: 30px!important;
+  }
+  /* .yoga-subscribe-main-section  .elementor-element.{
+  padding: -1px 0px 070px 0px!important;
+  } */
+
+
+  /*--------------------Scubscribe Section CSS Ends Here---------------------------*/
+  /*--------------------Header CSS Starts Here---------------------------*/
+  .yoga-header-logo-col img{
+  display: block;
+  margin: 0 auto;
+  }
+  .yoga-header-menu-col{
+  width:60%!important;
+  }
+  .yoga-header-logo-col{
+  width:20%!important;
+  }
+  .yoga-get-quote-col{
+  width:20%!important;
+  }
+  /*--------------------Header CSS Ends Here---------------------------*/
+  /*---------------------slider css starts here--------------------------*/
+  .yoga-slider-section .bdt-title-tag{
+  font-size: 40px!important;
+  line-height: 50px!important;
+  padding-bottom:20px!important;
+  width:65%;
+  }
+  .yoga-slider-section .bdt-slider-excerpt{
+  font-size:15px!important;
+  width:65%;
+  }
+  .yoga-slider-section .bdt-ps-slide-img{
+  /* background-position: 100%!important; */
+  /* background-size: auto!important; */
+  }
+  .yoga-slider-mail-col .elementor-widget-wrap {
+
+  position: absolute !important;
+    top: -518px;
+      width: max-content;
+      left: 37%;
+  }
+  .yoga-slider-call-col .elementor-widget-wrap{
+  bottom: 595px;
+  }
+
+
+  /*---------------------slider css ends here--------------------------*/
+
+}
+
+@media screen and (max-width:1200px) and (min-width:1041px){
+
+  /*--------------------testimonial Page CSS Starts Here---------------------------*/
+  .yoga-testimonial-section .ua-testimonials-wrap:after{
+    display:none;
+  }
+
+    /*--------------------testimonial Page CSS Starts Here---------------------------*/
+
+
+  .yoga-slider-strech-col .elementor-widget-wrap{
+    top: -154px;
+      right: 22%;
+  }
+  .yoga-most-common-type-slider .wpr-grid-slider-prev-arrow{
+    top: 5%!important;
+  }
+
+
+
+  .yoga-subscribe-main-section{
+  padding:0!important;
+  }
+  .yoga-most-common-type-slider .wpr-grid-slider-prev-arrow{
+  right: 9%!important;
+  }
+  /*---------------------Single Blog Page css starts here--------------------------*/
+  .single-page-metaimage img {
+  width: 100%;
+  }
+  .content_page{
+  background-color: #fff;
+  transform: translateY(-3%);
+  }
+  /*---------------------Single Blog Page css ends here--------------------------*/
+  /*--------------------Inner Quote Page CSS Starts Here---------------------------*/
+  .yoga-quote-form form{
+  width:100%;
+  padding: 20px 20px!important;
+  }
+  /*--------------------Inner Quote Page CSS Ends Here---------------------------*/
+
+  /*--------------------Scubscribe Section CSS Starts Here---------------------------*/
+
+  .yoga-home-subscribe-heading h2{
+  font-size: 30px!important;
+  }
+  /* .yoga-subscribe-main-section  .elementor-element.{
+  padding: -1px 0px 070px 0px!important;
+  } */
+
+
+  /*--------------------Scubscribe Section CSS Ends Here---------------------------*/
+  /*--------------------Header CSS Starts Here---------------------------*/
+  .yoga-header-logo-col img{
+  display: block;
+  margin: 0 auto;
+  }
+  .yoga-header-menu-col{
+  width:60%!important;
+  }
+  .yoga-header-logo-col{
+  width:20%!important;
+  }
+  .yoga-get-quote-col{
+  width:20%!important;
+  }
+  /*--------------------Header CSS Ends Here---------------------------*/
+  /*---------------------slider css starts here--------------------------*/
+  .yoga-slider-section .bdt-title-tag{
+  font-size: 40px!important;
+  line-height: 50px!important;
+  padding-bottom:20px!important;
+  width:65%;
+  }
+  .yoga-slider-section .bdt-slider-excerpt{
+  font-size:15px!important;
+  width:65%;
+  }
+  .yoga-slider-running-col .elementor-widget-wrap{
+    top: -350px;
+  }
+  .yoga-slider-section .bdt-prime-slider-content{
+    margin-left: 70px!important;
+  }
+  .yoga-slider-section .bdt-ps-slide-img{
+background-position: 145%!important;
+  }
+  .yoga-slider-mail-col .elementor-widget-wrap {
+
+  position: absolute !important;
+    top: -481px;
+      width: max-content;
+      left: 37%;
+  }
+  .yoga-slider-call-col .elementor-widget-wrap{
+    bottom: 515px;
+  }
+
+
+  /*---------------------slider css ends here--------------------------*/
+
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width:1040px) and (min-width:1025px){
+  .archive .postpic{
+    margin-bottom:30px!important;
+  }
+
+
+  /*--------------------testimonial Page CSS Starts Here---------------------------*/
+  .yoga-testimonial-section .ua-testimonials-wrap:after{
+    display:none;
+  }
+
+    /*--------------------testimonial Page CSS Starts Here---------------------------*/
+
+
+
+
+
+/*--------------------Footer Section CSS Starts Here---------------------------*/
+
+.yoga-footer-section h2{
+margin-left:unset!important;
+}
+
+/*--------------------Footer Section CSS Ends Here---------------------------*/
+/*---------------------slider css starts here--------------------------*/
+.yoga-slider-section .bdt-title-tag{
+font-size: 40px!important;
+line-height: 50px!important;
+padding-bottom:10px!important;
+width:75%!important;
+}
+.yoga-slider-section .bdt-slider-excerpt{
+font-size:15px!important;
+width:75%!important;
+}
+.yoga-slider-mail-col .elementor-widget-wrap{
+display:none!important;
+}
+.yoga-slider-running-col .elementor-widget-wrap{
+display:none!important;
+}
+.yoga-slider-strech-col .elementor-widget-wrap{
+display:none!important;
+}
+.yoga-slider-social-icon-col .elementor-widget-wrap{
+display:none!important;
+}
+.yoga-slider-section .bdt-prime-slider-content{
+margin-left: 25px!important;
+}
+/*---------------------slider css ends here--------------------------*/
+/*--------------------Inner Quote Page CSS Starts Here---------------------------*/
+.yoga-quote-form form{
+width:100%;
+padding: 20px 20px!important;
+}
+/*--------------------Inner Quote Page CSS Ends Here---------------------------*/
+/*--------------------Header CSS Starts Here---------------------------*/
+.yoga-header-logo-col img{
+display: block;
+margin: 0 auto;
+}
+.yoga-header-menu-col{
+width:60%!important;
+}
+.yoga-header-logo-col{
+width:20%!important;
+}
+.yoga-get-quote-col{
+width:20%!important;
+}
+/*--------------------Header CSS Ends Here---------------------------*/
+/*---------------------Single Blog Page css starts here--------------------------*/
+.single-page-metaimage img {
+width: 100%;
+}
+.content_page{
+background-color: #fff;
+transform: translateY(-2%);
+}
+/*---------------------Single Blog Page css ends here--------------------------*/
+
+}
+
+
+
+
+
+
+@media screen and (max-width:1024px) and (min-width:991px){
+
+
+  .archive .single-img img {
+    width: 100%;
+    height: auto;
+}
+  .archive .postpic{
+    display: flex;
+      align-items: center;
+      margin-bottom:30px;
+}
+.archive .post-text p{
+  font-size: 14px;
+}
+.archive .single-img{
+  margin-bottom:0;
+}
+
+    /*--------------------search page css starts here---------------------------*/
+    .search .postpic{
+      margin-bottom:30px;
+    }
+    .search .single-img img{
+      height: auto;
+      width: 100%;
+    }
+    .search .single-img {
+      margin-bottom:0;
+    }
+.search .post-text p{
+  font-size: 15px;
+}
+.search .postpic{
+  align-items: center;
+}
+
+
+
+      /*--------------------search page css ends here---------------------------*/
+
+
+
+
+  /*--------------------testimonial Page CSS Starts Here---------------------------*/
+  .yoga-testimonial-section .ua-testimonials-wrap:after{
+    display:none;
+  }
+
+    /*--------------------testimonial Page CSS Starts Here---------------------------*/
+
+  .search .search-result {
+    font-size: 25px;
+}
+
+
+
+  .yoga-3-steps-reservation .elementor-widget-wrap{
+    width:100%;
+  }
+
+/*--------------------Counter Section CSS Starts Here---------------------------*/
+  .yoga-counter-section .elementor-counter-title:before{
+    right: 47%!important;
+  }
+
+/*--------------------Counter Section CSS Ends Here---------------------------*/
+
+  /*---------------------Most Common Type Of Yoga Section Css Starts Here--------------------------*/
+  .yoga-most-common-type-yoga-second-col .elementor-widget-container{
+  width: max-content;
+  margin: 0 auto;
+  }
+  /*---------------------Most Common Type Of Yoga  Section Css Starts Here--------------------------*/
+
+
+  /*--------------------Footer Section CSS Starts Here---------------------------*/
+
+  .yoga-footer-section h2{
+  margin-left:unset!important;
+  }
+  .footer-contact-us-col h3{
+    margin-left:30px;
+  }
+  .footer-call-us-contact-no a{
+    margin-left:20px;
+  }
+  .footer-email a{
+      margin-left:20px;
+  }
+   .yoga-footer-address a{
+       margin-left:20px;
+   }
+   .footer-about-us-menu .hfe-nav-menu {
+     margin-left: 15px;
+   }
+   .footer-support-menu .hfe-nav-menu{
+      margin-left: 15px;
+   }
+   .footer-work-hour-col h3{
+     margin-left: 20px;
+   }
+   .footer-work-hour-col .footer-timming h2{
+     margin-left: 20px!important;
+   }
+
+  /*--------------------Footer Section CSS Ends Here---------------------------*/
+
+/*--------------------Footer Section CSS Starts Here---------------------------*/
+
+.yoga-footer-section h2{
+margin-left:unset!important;
+}
+
+/*--------------------Footer Section CSS Ends Here---------------------------*/
+
+/*---------------------slider css starts here--------------------------*/
+.yoga-slider-section .bdt-prime-slider-content{
+margin-left:100px!important;
+}
+.yoga-slider-section .bdt-title-tag{
+width:50%!important;
+padding-bottom: 25px!important;
+}
+.yoga-slider-section .bdt-slider-excerpt{
+width:50%!important;
+}
+.yoga-slider-mail-col .elementor-widget-wrap{
+display:none!important;
+}
+.yoga-slider-running-col .elementor-widget-wrap{
+display:none!important;
+}
+.yoga-slider-strech-col .elementor-widget-wrap{
+display:none!important;
+}
+.yoga-slider-social-icon-col .elementor-widget-wrap{
+display:none!important;
+}
+
+/*---------------------slider css ends here--------------------------*/
+
+
+
+/*--------------------Scubscribe Section CSS Starts Here---------------------------*/
+
+
+.yoga-newsletter-contact-form form:before{
+top:12px;
+}
+.yoga-newsletter-contact-form input[type="email"]{
+padding: 12px 20px 12px 45px!important;
+}
+.yoga-newsletter-contact-form input[type="submit"]{
+margin: 4px 4px 0px 0px!important;
+padding: 8px 20px 8px 20px!important;
+}
+
+/*--------------------Scubscribe Section CSS Ends Here---------------------------*/
+/*---------------------Single Blog Page css starts here--------------------------*/
+.ebs-single-post-page .feature-box img {
+width: 100%;
+}
+
+.content_page {
+background-color: #fff;
+transform: translateY(-3%);
+}
+.single-page-metaimage img {
+width: 100%;
+}
+.single-post-comment {
+width: unset!important;
+}
+
+.single-page-title{
+font: 600 20px/60px Jost!important;
+color: #242424;
+font-family: "Nunito Sans", Sans-serif!important;
+line-height: 1.3!important;
+}
+/*---------------------Single Blog Page css ends here--------------------------*/
+
+/*--------------------Inner Quote Page CSS Starts Here---------------------------*/
+.yoga-quote-form form{
+width:100%;
+padding: 20px 20px!important;
+}
+/*--------------------Inner Quote Page CSS Ends Here---------------------------*/
+/*---------------------Home Page Contact CSS Starts Here---------------------------*/
+.yoga-class-start-inner-section .elementor-container{
+justify-content: center;
+}
+
+
+/*---------------------Home Page Contact CSS Ends Here---------------------------*/
+/*--------------------Slider CSS Starts Here---------------------------*/
+.yoga-slider-empty-col{
+display:none;
+}
+.yoga-slider-mail-col{
+display:none;
+}
+.yoga-slider-call-col{
+display:none;
+}
+.yoga-slider-running-col{
+display:none;
+}
+.yoga-slider-strech-col{
+display:none;
+}
+.yoga-slider-social-media{
+display:none;
+}
+/*--------------------Slider CSS Ends Here---------------------------*/
+/*--------------------Most Common Types Of Yoga Section CSS Starts Here---------------------------*/
+
+.yoga-most-common-type-slider .wpr-grid-slider-prev-arrow{
+left:0!important;
+top: 30%!important;
+}
+.yoga-most-common-type-slider .wpr-grid-slider-next-arrow{
+right:0!important;
+top: 33%!important;
+}
+
+
+
+
+/*--------------------Most Common Types Of Yoga Section CSS Ends Here---------------------------*/
+/*---------------------Testimonial Section CSS Starts Here---------------------------*/
+.yoga-testimonial-section .ua-arrow-prev{
+left:0!important;
+}
+.yoga-testimonial-section .ua-arrow-next{
+right:0!important;
+}
+
+
+/*---------------------Testimonial Section CSS Ends Here---------------------------*/
+
+/*--------------------Header CSS Starts Here---------------------------*/
+.yoga-header-menu .elementskit-menu-hamburger{
+z-index:0;
+}
+.yoga-header-menu .ekit-wid-con .elementskit-navbar-nav-default.elementskit-menu-container {
+z-index: 9999!important;
+}
+.yoga-header-logo-col img{
+display: block;
+margin: 0 auto;
+}
+.yoga-header-menu .elementskit-menu-hamburger {
+float: none!important;
+margin: 0 auto;
+border:1px solid #000;
+}
+.yoga-header-menu .elementskit-menu-hamburger-icon{
+background-color: #000!important;
+}
+
+/*--------------------Header CSS Ends Here---------------------------*/
+
+.yoga-slider-section .bdt-prime-slider-content {
+margin-left: 100px!important;
+}
+
+}
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:990px) and (min-width:768px){
+
+
+  /*-------------------- archive page css starts here---------------------------*/
+
+  .archive .post-contents-cols{
+    margin-bottom:20px;
+  }
+
+#sidebar{
+  margin-top:20px!important;
+}
+  .archive .post-content a{
+  font-size: 10px;
+}
+
+   .archive .single-page-banner-tittle {
+      width: unset;
+
+      border-bottom: unset;
+      font-size: 20px;
+  }
+  /* .archive .page-title{
+    text-align:center;
+  }
+   .archive .single-page-breadcrumbs {
+      text-align: center;
+  } */
+
+
+
+  /*--------------------archive page css starts here---------------------------*/
+
+
+
+
+
+    /*--------------------search page css starts here---------------------------*/
+.search .postpic{
+  margin-bottom:30px;
+}
+.search .single-img img{
+  width:unset;
+  height:unset;
+}
+.search .single-img {
+  margin-bottom:0;
+}
+
+
+
+      /*--------------------search page css starts here---------------------------*/
+
+
+
+  /*--------------------testimonial Page CSS Starts Here---------------------------*/
+  .yoga-testimonial-section .ua-testimonials-wrap:after{
+    display:none;
+  }
+
+    /*--------------------testimonial Page CSS Starts Here---------------------------*/
+
+
+
+
+
+  .search .search-result {
+    font-size: 20px;
+}
+
+  .yoga-slider-section .bdt-ps-slide-img{
+    background-position: 75%!important;
+  }
+
+/*--------------------Footer Section CSS Starts Here---------------------------*/
+
+
+.yoga-footer-section h2{
+margin-left:unset!important;
+}
+.footer-contact-us-col h3{
+  margin-left:30px;
+}
+.footer-call-us-contact-no a{
+  margin-left:20px;
+}
+.footer-email a{
+    margin-left:20px;
+}
+ .yoga-footer-address a{
+     margin-left:20px;
+ }
+ .footer-about-us-menu .hfe-nav-menu {
+   margin-left: 15px;
+ }
+ .footer-support-menu .hfe-nav-menu{
+    margin-left: 15px;
+ }
+ .footer-work-hour-col h3{
+   margin-left: 20px;
+ }
+ .footer-work-hour-col .footer-timming h2{
+   margin-left: 20px!important;
+ }
+
+/*--------------------Footer Section CSS Ends Here---------------------------*/
+
+/*---------------------slider css starts here--------------------------*/
+.yoga-slider-section .bdt-prime-slider-content{
+margin-left:50px!important;
+}
+.yoga-slider-section .bdt-title-tag{
+width:50%!important;
+}
+.yoga-slider-section .bdt-slider-excerpt{
+width:40%!important;
+}
+/*---------------------slider css ends here--------------------------*/
+
+/*--------------------Inner Quote Page CSS Starts Here---------------------------*/
+
+
+.yoga-quote-form .quote_page_title h2{
+padding:10px;
+}
+.client_detail_title_3 h2{
+padding:10px;
+}
+
+
+/*--------------------Inner Quote Page CSS Ends Here---------------------------*/
+
+/*---------------------Blog With Sidebar Page css starts here--------------------------*/
+.yoga-blog-with-sidebar .post-content a{
+font-size: 10px!important;
+}
+.yoga-blog-with-sidebar .recent-post-box{
+gap:5px;
+}
+.yoga-blog-with-sidebar .widget-title{
+padding:5px!important;
+}
+.yoga-blog-with-sidebar .wp-block-group__inner-container h2{
+padding:5px!important;
+}
+.yoga-blog-with-sidebar .wp-block-group__inner-container h2{
+font-size: 18px;
+}
+.yoga-blog-with-sidebar .widget-title{
+font-size: 18px;
+}
+
+
+/*---------------------Blog With Sidebar Page css Ends here--------------------------*/
+
+
+
+/*---------------------Single Blog Page css starts here--------------------------*/
+.ebs-single-post-page .feature-box img {
+width: 100%;
+}
+.content_page {
+background-color: #fff;
+transform: translateY(-2%);
+}
+.single-page-metaimage img {
+width: 100%;
+}
+.single-post-comment {
+width: unset!important;
+}
+
+.single-page-title{
+font: 600 20px/60px Jost!important;
+color: #242424;
+font-family: "Nunito Sans", Sans-serif!important;
+line-height: 1.3!important;
+}
+/*---------------------Single Blog Page css ends here--------------------------*/
+/*--------------------Scubscribe Section CSS Starts Here---------------------------*/
+.yoga-newsletter-contact-form input[type="submit"]{
+position: unset!important;
+}
+.yoga-newsletter-contact-form input[type="email"]{
+padding: 10px 20px 10px 45px!important;
+}
+.yoga-newsletter-contact-form form:before{
+top:11px!important;
+}
+.yoga-newsletter-contact-form .wpcf7-submit{
+font-size: 12px!important;
+padding: 10px 15px 10px 15px!important;
+display: block;
+margin: 0 auto!important;
+margin-top: 10px!important;
+}
+.yoga-newsletter-contact-form{
+margin-bottom:0!important;
+}
+
+
+
+/*--------------------Scubscribe Section CSS Ends Here---------------------------*/
+/*---------------------Home Page Contact CSS Starts Here---------------------------*/
+.yoga-class-start-inner-section .elementor-container{
+justify-content: center;
+}
+
+
+/*---------------------Home Page Contact CSS Ends Here---------------------------*/
+/*----------------------Basic Yoga CSS Starts Here---------------------------*/
+.yoga-basic-yoga-main-section{
+background-position: 38% 46%!important;
+}
+/*----------------------Basic Yoga CSS ends Here---------------------------*/
+/*---------------------Testimonial Section CSS Starts Here---------------------------*/
+
+.yoga-testimonial-section .ua-arrow-prev{
+left:0!important;
+}
+.yoga-testimonial-section .ua-arrow-next{
+right:0!important;
+}
+
+
+/*---------------------Testimonial Section CSS Ends Here---------------------------*/
+/*--------------------Most Common Types Of Yoga Section CSS Starts Here---------------------------*/
+.yoga-most-common-type-slider .wpr-grid-slider-dots{
+left:44%!important;
+}
+.yoga-most-common-type-slider .wpr-grid-slider-prev-arrow{
+left: 0!important;
+top: 20%!important;
+}
+.yoga-most-common-type-slider .wpr-grid-slider-next-arrow{
+right: 0!important;
+top: 23%!important;
+}
+/*--------------------Most Common Types Of Yoga Section CSS Ends Here---------------------------*/
+
+
+/*---------------------Testimonial Section CSS Starts Here---------------------------*/
+.yoga-testimonial-section .ua-arrow-prev{
+left:0!important;
+}
+
+
+/*---------------------Testimonial Section CSS Ends Here---------------------------*/
+/*--------------------Slider CSS Starts Here---------------------------*/
+.yoga-slider-empty-col{
+display: none;
+}
+.yoga-slider-mail-col{
+display: none;
+}
+.yoga-slider-strech-col{
+display: none;
+}
+.yoga-slider-running-col{
+display: none;
+}
+.yoga-slider-call-col{
+display: none;
+}
+.yoga-slider-social-icon-col{
+display: none;
+}
+.yoga-slider-section .bdt-prime-slider-dragon .bdt-prime-slider-wrapper .bdt-prime-slider-content .bdt-main-title .bdt-title-tag{
+padding-bottom:10px!important;
+}
+.yoga-slider-section .bdt-ps-button-text{
+font-size:13px!important;
+}
+/*--------------------Slider CSS Ends Here---------------------------*/
+
+
+
+
+/*--------------------Header CSS Starts Here---------------------------*/
+.yoga-header-menu .elementskit-menu-hamburger{
+z-index:0;
+}
+.yoga-header-menu .ekit-wid-con .elementskit-navbar-nav-default.elementskit-menu-container {
+z-index: 9999!important;
+}
+.yoga-header-logo-col img{
+display: block;
+margin: 0 auto;
+}
+.yoga-header-menu .elementskit-menu-hamburger {
+float: none!important;
+margin: 0 auto;
+border:1px solid #000;
+}
+.yoga-header-menu .elementskit-menu-hamburger-icon{
+background-color: #000!important;
+}
+/*--------------------Header CSS Ends Here---------------------------*/
+/*--------------------Inner Quote Page CSS Starts Here---------------------------*/
+.yoga-quote-form form{
+width:100%;
+padding: 20px 20px!important;
+}
+/*--------------------Inner Quote Page CSS Ends Here---------------------------*/
+/*---------------------3 Steps Reservation Section Css Starts Here--------------------------*/
+.yoga-3-steps-reservation .elementor-widget-wrap{
+width:100%!important;
+margin:unset;
+}
+
+/*---------------------3 Steps Reservation Section Css Starts Here--------------------------*/
+/*---------------------Most Common Type Of Yoga Section Css Starts Here--------------------------*/
+.yoga-most-common-type-yoga-second-col .elementor-widget-container{
+width: max-content;
+margin: 0 auto;
+}
+/*---------------------Most Common Type Of Yoga  Section Css Starts Here--------------------------*/
+/*----------------------Blog Section CSS Starts Here---------------------------*/
+.yoga-blog-section .bew-blog-title{
+border-left:unset;
+padding-left:unset;
+}
+/*----------------------Blog Section CSS Ends Here---------------------------*/
+
+/*----------------------Footer CSS starts Here---------------------------*/
+
+.footer-contact-us-col .elementor-widget-wrap{
+padding-left:10px!important;
+}
+.footer-about-us-col .elementor-widget-wrap{
+padding-left:10px!important;
+}
+.footer-support-col .elementor-widget-wrap{
+padding-left:10px!important;
+}
+.footer-support-col .footer-work-hour-col{
+padding-left:10px!important;
+}
+/*----------------------Footer Css  Ends Here---------------------------*/
+/*--------------------Counter Section CSS Starts Here---------------------------*/
+
+.yoga-counter-section .elementor-counter-title:before{
+right: 46%;
+}
+
+/*--------------------Counter Section CSS Ends Here---------------------------*/
+}
+
+
+
+
+
+
+@media screen and (max-width:767px) and (min-width:641px){
+
+  /*-------------------- archive page css starts here---------------------------*/
+  .archive .posttitle{
+    text-align: center;
+  }
+  .archive  .post-text p{
+  text-align: center;
+  }
+  .archive .read{
+    text-align: center;
+  }
+  .archive .post-contents-cols{
+    margin-bottom:20px;
+  }
+
+
+    .archive .banner-image {
+      background-image: unset!important;
+      background-color: #a787ae!important;
+  }
+   .archive .single-page-banner-tittle {
+      width: unset;
+      text-align: center;
+      border-bottom: unset;
+      font-size: 20px;
+  }
+  .archive .page-title{
+    text-align:center;
+  }
+   .archive .single-page-breadcrumbs {
+      text-align: center;
+  }
+
+
+
+  /*--------------------archive page css starts here---------------------------*/
+
+
+
+
+  .search .sorry-msg{
+    text-align: center;
+    font-size: 16px;
+  }
+  .search  input[type="search"]{
+    display: block;
+    margin: 0 auto;
+
+  }
+
+  .search  input[type="submit"]{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px;
+      margin-top: 10px;
+  }
+
+
+    /*--------------------search page css starts here---------------------------*/
+    .search .search-col-1{
+      width:100%;
+    }
+    .search-col-2{
+      width:100%;
+    }
+    .search .single-img img{
+      margin:0 auto;
+      width:unset;
+      height:unset;
+    }
+    .search .single-page-banner-tittle{
+      width:unset;
+      text-align:center;
+      border-bottom: unset;
+    }
+    .search .single-product-page-custom .bradcrumbs svg{
+      margin-right:0;
+    }
+    .search .entry-title{
+      text-align: center;
+      font-size: 25px;
+    }
+    .search .posttitle{
+      text-align: center;
+    }
+    .search  .post-text{
+        text-align: center;
+        font-size: 15px;
+    }
+    .search .read{
+      text-align: center;
+    }
+    .search .single-img{
+      margin-top: 30px;
+    }
+    .navigation{
+      justify-content: center;
+    }
+  /*--------------------search page css ends here---------------------------*/
+
+
+
+  /*--------------------testimonial Page CSS Starts Here---------------------------*/
+  .yoga-testimonial-section .ua-testimonials-wrap:after{
+    display:none;
+  }
+
+    /*--------------------testimonial Page CSS Starts Here---------------------------*/
+
+
+  /*--------------------Search Page CSS Starts Here---------------------------*/
+  .search .post-content a{
+    font-size: 15px;
+  }
+  .search-result {
+    font-size: 20px;
+    text-align: center;
+}
+.search .banner-image{
+  background-image: unset!important;
+    background-color: #a787ae!important;
+}
+.search .single-page-breadcrumbs{
+  text-align:center;
+}
+
+
+/*--------------------Search Page CSS Ends Here---------------------------*/
+
+
+/*--------------------Footer Section CSS Starts Here---------------------------*/
+
+.yoga-footer-section h2{
+margin-left:unset!important;
+}
+
+/*--------------------Footer Section CSS Ends Here---------------------------*/
+/*---------------------slider css starts here--------------------------*/
+.yoga-slider-section .bdt-prime-slider-content{
+margin-left:20px!important;
+}
+/*---------------------slider css ends here--------------------------*/
+/*---------------------3 Steps Reservation Section Css Starts Here--------------------------*/
+.yoga-3-steps-reservation .elementor-widget-wrap{
+width:100%!important;
+margin:unset;
+}
+
+/*---------------------3 Steps Reservation Section Css Starts Here--------------------------*/
+/*--------------------Classes Section Starts Here---------------------------*/
+.yoga-classes-section .ua-content{
+margin-left:0px;
+}
+.yoga-program-section-para h2{
+text-align: center;
+}
+/*--------------------Classes Section Ends Here---------------------------*/
+
+/*--------------------Footer Section starts Here---------------------------*/
+.footer-contact-us-col .ekit-header-info a{
+text-align: center;
+}
+/*--------------------Footer Section Ends Here---------------------------*/
+/*----------------------Blog Section CSS Starts Here---------------------------*/
+.yoga-blog-section .bew-blog-title{
+border-left:unset;
+padding-left:unset;
+}
+/*----------------------Blog Section CSS Ends Here---------------------------*/
+
+
+
+/*---------------------Single Class Page Css Starts Here--------------------------*/
+.single-product-banner-left h1{
+width:unset;
+border-style: none!important;
+}
+.single-product-banner-left h1{
+text-align: center;
+}
+.single-classes .bradcrumbs{
+text-align: center;
+}
+.bradcrumbs-div{
+text-align: center;
+}
+.service-single-page img{
+width:100%;
+}
+.service-single-box h3{
+text-align: center;
+}
+.service-single-box p{
+text-align: center;
+}
+.single-classes h2{
+text-align: center;
+}
+.single-class-days{
+text-align: center;
+}
+.single-classes p{
+text-align: center;
+}
+/*---------------------Single Class Page Css Ends Here--------------------------*/
+
+
+/*---------------------Single Blog Page css starts here--------------------------*/
+.ebs-single-post-page .feature-box img {
+width: 100%;
+}
+.content_page {
+background-color: unset;
+transform: unset;
+}
+.single-page-metaimage img {
+width: 100%;
+}
+.single-post-comment {
+width: unset!important;
+}
+.single-author-image img{
+display: block;
+margin: 0 auto;
+}
+.single-page-title{
+font: 600 20px/60px Jost!important;
+color: #242424;
+font-family: "Nunito Sans", Sans-serif!important;
+line-height: 1.3!important;
+}
+/*---------------------Single Blog Page css ends here--------------------------*/
+.inner-page-title-banner .elementor-element .woolentor-breadcrumb{
+text-align:center!important;
+}
+.yoga-counter-section .elementor-counter-title:before{
+right: 46%;
+}
+.yoga-demo-class-section  img{
+display:unset!important;
+}
+
+/*--------------------Testimonial CSS Starts Here---------------------------*/
+.yoga-testimonial-section .ua-arrow-next{
+right: 0%!important;
+}
+.yoga-testimonial-section .ua-arrow-prev{
+left: 0%!important;
+}
+.yoga-testimonial-section .ua-testimonial-content{
+width: 80%!important;
+}
+.yoga-testimonial-section .ua-testimonial{
+width:unset;
+}
+/*--------------------Testimonial CSS Starts Here---------------------------*/
+
+
+
+/*---------------------Our Instructor CSS Starts Here---------------------------*/
+.yoga-our-instructor-col .wpr-member-content{
+left: 0px;
+}
+/*---------------------Our Instructor CSS Ends Here---------------------------*/
+
+
+/*--------------------Scubscribe Section CSS Starts Here---------------------------*/
+.yoga-newsletter-contact-form input[type="submit"]{
+position: unset!important;
+}
+.yoga-newsletter-contact-form form:before{
+top:13px!important;
+}
+.yoga-newsletter-contact-form .wpcf7-submit{
+display: block;
+margin: 0 auto!important;
+margin-top:10px!important;
+font-size: 13px!important;
+}
+.yoga-girl-images-section{
+display: none;
+}
+.yoga-newsletter-contact-form{
+margin-bottom:0!important;
+}
+/*--------------------Scubscribe Section CSS Ends Here---------------------------*/
+
+/*----------------------Basic Yoga CSS Starts Here---------------------------*/
+.yoga-basic-yoga-main-section{
+background-color: #BF82E9;
+background-image: unset!important;
+}
+.yoga-basic-col .elementor-container{
+justify-content: center;
+}
+/*----------------------Basic Yoga CSS ends Here---------------------------*/
+
+/*----------------------Blog Section CSS Starts Here---------------------------*/
+.yoga-blog-section .display-grid[tablet-col="3"] {
+grid-template-columns: repeat(1, 1fr)!important;
+}
+
+
+.yoga-blog-section .bew-post-meta{
+display: flex;
+justify-content: center;
+}
+.yoga-blog-section .bew-blog-title{
+text-align: center;
+}
+.yoga-blog-section .bew-blog-excerpt{
+text-align: center;
+}
+/*----------------------Blog Section CSS Ends Here---------------------------*/
+
+/*---------------------Home Page Contact CSS Starts Here---------------------------*/
+.yoga-home-page-contact-col .elementor-widget-wrap{
+position: unset!important;
+}
+.yoga-home-page-contact-col .wpcf7-submit{
+display: block;
+margin: 0 auto!important;
+}
+/*---------------------Home Page Contact CSS Ends Here---------------------------*/
+
+/*--------------------Most Common Types Of Yoga Section CSS Starts Here---------------------------*/
+.yoga-most-common-type-slider .wpr-grid-slider-dots {
+top: 102%!important;
+}
+.yoga-most-common-type-slider .wpr-grid-slider-dots{
+left:45%!important;
+}
+.yoga-most-common-type-section .wpr-grid-slider-arrow{
+width: 40px!important;
+height: 40px!important;
+}
+/*--------------------Most Common Types Of Yoga Section CSS Ends Here---------------------------*/
+
+
+/*--------------------Classes Section Starts Here---------------------------*/
+.yoga-program-section-para .elementor-heading-title {
+text-align: center!important;
+}
+.yoga-classes-section .ua-title{
+text-align: center;
+}
+.yoga-classes-section .ua-text-wrap{
+text-align: center;
+}
+/*--------------------Classes Section Ends Here---------------------------*/
+
+
+
+/*--------------------Most Common Types Of Yoga Section CSS Starts Here---------------------------*/
+.yoga-most-common-type-slider .wpr-grid-slider-next-arrow{
+right: 0%!important;
+top: 22%!important;
+
+
+}
+.yoga-most-common-type-slider .wpr-grid-slider-prev-arrow{
+
+top: 20%!important;
+transform: unset!important;
+
+left:0!important;
+}
+
+
+
+
+
+
+/*--------------------Most Common Types Of Yoga Section CSS Ends Here---------------------------*/
+
+
+
+/*--------------------Slider CSS Starts Here---------------------------*/
+.yoga-slider-section .bdt-prime-slider-content{
+margin-left:0!important;
+}
+.yoga-slider-section  .bdt-prime-slider-content{
+max-width: 100%!important;
+}
+
+.yoga-slider-section .bdt-prime-slider-content{
+/* margin-right: 20px!important; */
+}
+.yoga-slider-section .bdt-title-tag{
+text-align: center;
+}
+.yoga-slider-section .bdt-slider-excerpt{
+text-align: center;
+}
+.yoga-slider-section  div {
+text-align: center;
+}
+
+.yoga-slider-section .bdt-ps-slide-img {
+background-image: unset!important;
+background-color: #f9f6fd!important;
+}
+.yoga-slider-section .bdt-ps-button-text{
+font-size: 15px!important;
+}
+.yoga-slider-mail-col{
+display: none;
+}
+.yoga-slider-strech-col{
+display: none;
+}
+.yoga-slider-running-col{
+display: none;
+}
+.yoga-slider-call-col{
+display: none;
+}
+.yoga-slider-social-icon-col{
+display: none;
+}
+.yoga-slider-section .bdt-slider-excerpt{
+max-width: unset!important;
+}
+
+/*--------------------Slider CSS Ends Here----------------------------*/
+
+
+
+
+
+
+
+/*--------------------Footer CSS Starts Here---------------------------*/
+.footer-support-menu ul.hfe-nav-menu li:before{
+display:none!important
+}
+.footer-support-menu .hfe-nav-menu{
+display: block;
+margin: 0 auto;
+}
+.footer-contact-us-col h3:before{
+display:none;
+}
+.footer-about-us-menu ul.hfe-nav-menu li:before{
+display: none;
+}
+
+.footer-work-hour-col h3:before{
+display:none;
+}
+.yoga-footer-section .ekit-header-info{
+justify-content:center;
+}
+.yoga-footer-section .ekit-header-info{
+justify-content:center;
+}
+.yoga-footer-section a.hfe-menu-item{
+display: block;
+text-align: center;
+}
+.footer-about-us-menu .hfe-nav-menu{
+display: block;
+margin: 0 auto;
+}
+
+/*--------------------Footer CSS Ends Here---------------------------*/
+/*--------------------Header CSS Starts Here---------------------------*/
+.yoga-header-logo-col img{
+display: block;
+margin: 0 auto;
+}
+.yoga-get-quote-col{
+display: none;
+}
+.yoga-header-menu .elementskit-menu-hamburger{
+z-index:0;
+}
+.yoga-header-menu .ekit-wid-con .elementskit-navbar-nav-default.elementskit-menu-container {
+z-index: 9999!important;
+}
+
+.yoga-header-menu .elementskit-menu-hamburger {
+float: none!important;
+margin: 0 auto;
+border:1px solid #000;
+}
+.yoga-header-menu .elementskit-menu-hamburger-icon{
+background-color: #000!important;
+}
+/*--------------------Header CSS Ends Here---------------------------*/
+
+/*--------------------About Inner Page CSS Starts Here---------------------------*/
+.inner-page-title-banner{
+background-image: unset!important;
+background-color:#a787ae!important;
+}
+
+
+.yoga-inner-page-heading h2{
+text-align: center;
+}
+
+.yoga-inner-page-heading{
+width:100%!important;
+
+}
+.yoga-inner-page-heading .elementor-widget-container {
+border-style:none!important;
+}
+.inner-page-title-banner.woolentor-breadcrumb{
+text-align:center;
+}
+.yoga-newsletter-contact-form input[type="email"]{
+padding: 10px 20px 10px 45px!important;
+}
+
+/*--------------------About Inner Page CSS Ends Here---------------------------*/
+/*---------------------Inner Contact Us Starts Here--------------------------*/
+.book-store-contact-inf-col .ekit-header-info{
+justify-content:center;
+}
+.yoga-inner-page-contact-form input[type=submit]{
+padding: 10px 25px!important;
+display: block;
+margin: 0 auto;
+}
+/*---------------------Inner Contact Us Starts Here--------------------------*/
+
+/*--------------------Inner Quote Page CSS Starts Here---------------------------*/
+.yoga-quote-form form{
+width:100%;
+padding: 20px 20px!important;
+}
+.yoga-quote-form .quote_page_title h2{
+font-size: 20px;
+}
+
+
+.yoga-quote-form .client_detail_title_2 p{
+text-align: center;
+}
+
+.yoga-quote-form input[type="email"]{
+width:100%;
+}
+.yoga-quote-form input[type="number"]{
+width:100%;
+}
+.yoga-quote-form input[type="text"]{
+width:100%;
+}
+.yoga-quote-form input[type="submit"]{
+
+width: 40%;
+
+}
+.yoga-subscribe-left-image{
+position: unset;
+}
+.yoga-subscribe-right-image{
+position: unset;
+}
+.yoga-quote-form input[type="text"]::placeholder{
+font-size:15px;
+}
+.yoga-quote-form input[type="submit"]::placeholder{
+font-size:15px;
+}
+.yoga-quote-form input[type="number"]::placeholder{
+font-size:15px;
+}
+.yoga-quote-form input[type="email"]::placeholder{
+font-size:15px;
+}
+.yoga-quote-form .info .name{
+font-size:18px;
+}
+.yoga-quote-form .info .number{
+font-size:18px;
+}
+.yoga-quote-form .info .email{
+font-size:18px;
+}
+.yoga-quote-form .client_detail_title_3 h2{
+padding:10px;
+}
+.yoga-quote-form .quote_page_title h2{
+padding:10px;
+}
+
+
+
+/*--------------------Inner Quote Page Ends Starts Here---------------------------*/
+
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width:640px) and (min-width:481px){
+
+  /*-------------------- archive page css starts here---------------------------*/
+  .archive .posttitle{
+    text-align: center;
+  }
+  .archive  .post-text p{
+  text-align: center;
+  }
+  .archive .read{
+    text-align: center;
+  }
+  .archive .post-contents-cols{
+    margin-bottom:20px;
+  }
+
+
+    .archive .banner-image {
+      background-image: unset!important;
+      background-color: #a787ae!important;
+  }
+   .archive .single-page-banner-tittle {
+      width: unset;
+      text-align: center;
+      border-bottom: unset;
+      font-size: 20px;
+  }
+  .archive .page-title{
+    text-align:center;
+  }
+   .archive .single-page-breadcrumbs {
+      text-align: center;
+  }
+
+
+
+  /*--------------------archive page css starts here---------------------------*/
+
+  /*--------------------search page css starts here---------------------------*/
+  .search .single-content{
+    display:unset;
+  }
+  .search .sorry-msg{
+    text-align: center;
+    font-size: 16px;
+  }
+  .search  input[type="search"]{
+    display: block;
+    margin: 0 auto;
+
+  }
+
+  .search  input[type="submit"]{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px;
+      margin-top: 10px;
+  }
+  .search .search-col-1{
+    width:100%;
+  }
+  .search-col-2{
+    width:100%;
+  }
+  .search .single-img img{
+    margin:0 auto;
+    width:unset;
+    height:unset;
+  }
+  .search .single-page-banner-tittle{
+    width:unset;
+    text-align:center;
+    border-bottom: unset;
+  }
+  .search .single-product-page-custom .bradcrumbs svg{
+    margin-right:0;
+  }
+  .search .entry-title{
+    text-align: center;
+    font-size: 25px;
+  }
+  .search .posttitle{
+    text-align: center;
+  }
+  .search  .post-text{
+      text-align: center;
+      font-size: 15px;
+  }
+  .search .read{
+    text-align: center;
+  }
+  .search .single-img{
+    margin-top: 30px;
+  }
+  .navigation{
+    justify-content: center;
+  }
+/*--------------------search page css ends here---------------------------*/
+
+  /*--------------------testimonial Page CSS Starts Here---------------------------*/
+  .yoga-testimonial-section .ua-testimonials-wrap:after{
+    display:none;
+  }
+
+    /*--------------------testimonial Page CSS Starts Here---------------------------*/
+
+  /*--------------------Search Page CSS Starts Here---------------------------*/
+  .search .post-content a{
+    font-size: 15px;
+  }
+  .search-result {
+    font-size: 20px;
+    text-align: center;
+}
+.search .banner-image{
+  background-image: unset!important;
+    background-color: #a787ae!important;
+}
+.search .single-page-breadcrumbs{
+  text-align:center;
+}
+
+
+/*--------------------Search Page CSS Ends Here---------------------------*/
+
+/*--------------------Footer Section CSS Starts Here---------------------------*/
+
+.yoga-footer-section h2{
+margin-left:unset!important;
+}
+
+/*--------------------Footer Section CSS Ends Here---------------------------*/
+/*---------------------slider css starts here--------------------------*/
+.yoga-slider-section .bdt-prime-slider-content{
+margin-left:20px!important;
+}
+/*---------------------slider css ends here--------------------------*/
+/*---------------------3 Steps Reservation Section Css Starts Here--------------------------*/
+.yoga-3-steps-reservation .elementor-widget-wrap{
+width:100%!important;
+margin:unset;
+}
+
+/*---------------------3 Steps Reservation Section Css Starts Here--------------------------*/
+/*--------------------Classes Section Starts Here---------------------------*/
+.yoga-classes-section .ua-content{
+margin-left:0px;
+}
+.yoga-program-section-para h2{
+text-align: center;
+}
+/*--------------------Classes Section Ends Here---------------------------*/
+
+/*--------------------Footer Section starts Here---------------------------*/
+.footer-contact-us-col .ekit-header-info a{
+text-align: center;
+}
+/*--------------------Footer Section Ends Here---------------------------*/
+/*----------------------Blog Section CSS Starts Here---------------------------*/
+.yoga-blog-section .bew-blog-title{
+border-left:unset;
+padding-left:unset;
+}
+/*----------------------Blog Section CSS Ends Here---------------------------*/
+/*---------------------Single Class Page Css Starts Here--------------------------*/
+.single-product-banner-left h1{
+width:unset;
+border-style: none!important;
+}
+.single-product-banner-left h1{
+text-align: center;
+}
+.single-classes .bradcrumbs{
+text-align: center;
+}
+.bradcrumbs-div{
+text-align: center;
+}
+.service-single-page img{
+width:100%;
+}
+.service-single-box h3{
+text-align: center;
+}
+.service-single-box p{
+text-align: center;
+}
+.single-classes h2{
+text-align: center;
+}
+.single-class-days{
+text-align: center;
+}
+.single-classes p{
+text-align: center;
+}
+/*---------------------Single Class Page Css Ends Here--------------------------*/
+.inner-page-title-banner .elementor-element .woolentor-breadcrumb{
+text-align:center!important;
+}
+/*--------------------Inner Quote Page CSS Starts Here---------------------------*/
+.yoga-quote-form form{
+width:100%;
+padding: 20px 20px!important;
+}
+.yoga-quote-form .quote_page_title h2{
+font-size: 20px;
+}
+.client_detail_title_1 h2{
+font-size:20px;
+}
+.yoga-quote-form h2{
+font-size:20px;
+}
+
+.yoga-quote-form .client_detail_title_2 p{
+text-align: center;
+}
+.yoga-quote-form input[type="submit"]{
+font-size:18px;
+}
+.yoga-quote-form input[type="email"]{
+width:100%;
+}
+.yoga-quote-form input[type="number"]{
+width:100%;
+}
+.yoga-quote-form input[type="text"]{
+width:100%;
+}
+.yoga-quote-form input[type="submit"]{
+width:100%;
+}
+.yoga-subscribe-left-image{
+position: unset;
+}
+.yoga-subscribe-right-image{
+position: unset;
+}
+.yoga-quote-form input[type="text"]::placeholder{
+font-size:15px;
+}
+.yoga-quote-form input[type="submit"]::placeholder{
+font-size:15px;
+}
+.yoga-quote-form input[type="number"]::placeholder{
+font-size:15px;
+}
+.yoga-quote-form input[type="email"]::placeholder{
+font-size:15px;
+}
+.yoga-quote-form .info .name{
+font-size:18px;
+}
+.yoga-quote-form .info .number{
+font-size:18px;
+}
+.yoga-quote-form .info .email{
+font-size:18px;
+}
+.yoga-quote-form .client_detail_title_3 h2{
+padding:10px;
+}
+.yoga-quote-form .quote_page_title h2{
+padding:10px;
+}
+/*--------------------Inner Quote Page Ends Starts Here---------------------------*/
+
+
+.yoga-demo-class-section  img{
+display:unset!important;
+}
+/*--------------------Testimonial CSS Starts Here---------------------------*/
+.yoga-testimonial-section .ua-arrow-next{
+right: 0%!important;
+}
+.yoga-testimonial-section .ua-arrow-prev{
+left: 0%!important;
+}
+.yoga-testimonial-section .ua-testimonial-content{
+width: 80%!important;
+}
+.yoga-testimonial-section .ua-testimonial{
+width:unset;
+}
+/*--------------------Testimonial CSS Starts Here---------------------------*/
+/*---------------------Our Instructor CSS Starts Here---------------------------*/
+.yoga-our-instructor-col .wpr-member-content{
+left: -12px;
+}
+/*---------------------Our Instructor CSS Ends Here---------------------------*/
+
+
+/*--------------------Scubscribe Section CSS Starts Here---------------------------*/
+.yoga-newsletter-contact-form input[type="submit"]{
+position: unset!important;
+}
+.yoga-newsletter-contact-form form:before{
+top:13px!important;
+}
+.yoga-newsletter-contact-form .wpcf7-submit{
+display: block;
+margin: 0 auto!important;
+margin-top:10px!important;
+font-size: 13px!important;
+}
+.yoga-girl-images-section{
+display: none;
+}
+/*--------------------Scubscribe Section CSS Ends Here---------------------------*/
+
+/*----------------------Basic Yoga CSS Starts Here---------------------------*/
+.yoga-basic-yoga-main-section{
+background-color: #BF82E9;
+background-image: unset!important;
+}
+.yoga-basic-col .elementor-container{
+justify-content: center;
+}
+/*----------------------Basic Yoga CSS ends Here---------------------------*/
+
+/*----------------------Blog Section CSS Starts Here---------------------------*/
+.yoga-blog-section .display-grid[tablet-col="3"] {
+grid-template-columns: repeat(1, 1fr)!important;
+}
+
+
+.yoga-blog-section .bew-post-meta{
+display: flex;
+justify-content: center;
+}
+.yoga-blog-section .bew-blog-title{
+text-align: center;
+}
+.yoga-blog-section .bew-blog-excerpt{
+text-align: center;
+}
+/*----------------------Blog Section CSS Ends Here---------------------------*/
+
+/*---------------------Home Page Contact CSS Starts Here---------------------------*/
+.yoga-home-page-contact-col .elementor-widget-wrap{
+position: unset!important;
+}
+.yoga-home-page-contact-col .wpcf7-submit{
+display: block;
+margin: 0 auto!important;
+}
+/*---------------------Home Page Contact CSS Ends Here---------------------------*/
+
+/*--------------------Most Common Types Of Yoga Section CSS Starts Here---------------------------*/
+.yoga-most-common-type-slider .wpr-grid-slider-dots {
+top: 102%!important;
+}
+.yoga-most-common-type-slider .wpr-grid-slider-dots{
+left: 38%!important;
+}
+.yoga-most-common-type-section .wpr-grid-slider-arrow{
+width: 40px!important;
+height: 40px!important;
+}
+/*--------------------Most Common Types Of Yoga Section CSS Ends Here---------------------------*/
+
+
+/*--------------------Classes Section Starts Here---------------------------*/
+.yoga-classes-section .ua-title{
+text-align: center;
+}
+.yoga-classes-section .ua-text-wrap{
+text-align: center;
+}
+/*--------------------Classes Section Ends Here---------------------------*/
+
+
+
+/*--------------------Most Common Types Of Yoga Section CSS Starts Here---------------------------*/
+.yoga-most-common-type-slider .wpr-grid-slider-next-arrow{
+right: 0%!important;
+top: 14%!important;
+
+}
+.yoga-most-common-type-slider .wpr-grid-slider-prev-arrow{
+
+top: 12%!important;
+transform: unset!important;
+
+left:0!important;
+}
+
+
+
+
+
+
+/*--------------------Most Common Types Of Yoga Section CSS Ends Here---------------------------*/
+
+
+
+/*--------------------Slider CSS Starts Here---------------------------*/
+
+.yoga-slider-section .bdt-prime-slider-content{
+margin-right: 20px!important;
+}
+.yoga-slider-section .bdt-title-tag{
+text-align: center;
+}
+.yoga-slider-section .bdt-slider-excerpt{
+text-align: center;
+}
+.yoga-slider-section  div {
+text-align: center;
+}
+
+.yoga-slider-section .bdt-ps-slide-img {
+background-image: unset!important;
+background-color: #f9f6fd!important;
+}
+.yoga-slider-section .bdt-ps-button-text{
+font-size: 15px!important;
+}
+.yoga-slider-mail-col{
+display: none;
+}
+.yoga-slider-strech-col{
+display: none;
+}
+.yoga-slider-running-col{
+display: none;
+}
+.yoga-slider-call-col{
+display: none;
+}
+.yoga-slider-social-icon-col{
+display: none;
+}
+.yoga-slider-section .bdt-slider-excerpt{
+max-width: unset!important;
+}
+
+/*--------------------Slider CSS Ends Here----------------------------*/
+
+
+
+
+
+
+
+/*--------------------Footer CSS Starts Here---------------------------*/
+.footer-support-menu ul.hfe-nav-menu li:before{
+display:none!important
+}
+.footer-support-menu .hfe-nav-menu{
+display: block;
+margin: 0 auto;
+}
+.footer-contact-us-col h3:before{
+display:none;
+}
+.footer-about-us-menu ul.hfe-nav-menu li:before{
+display: none;
+}
+
+.footer-work-hour-col h3:before{
+display:none;
+}
+.yoga-footer-section .ekit-header-info{
+justify-content:center;
+}
+.yoga-footer-section .ekit-header-info{
+justify-content:center;
+}
+.yoga-footer-section a.hfe-menu-item{
+display: block;
+text-align: center;
+}
+.footer-about-us-menu .hfe-nav-menu{
+display: block;
+margin: 0 auto;
+}
+
+/*--------------------Footer CSS Ends Here---------------------------*/
+/*--------------------Header CSS Starts Here---------------------------*/
+.yoga-header-logo-col img{
+display: block;
+margin: 0 auto;
+}
+.yoga-get-quote-col{
+display: none;
+}
+.yoga-header-menu .elementskit-menu-hamburger{
+z-index:0;
+}
+.yoga-header-menu .ekit-wid-con .elementskit-navbar-nav-default.elementskit-menu-container {
+z-index: 9999!important;
+}
+
+.yoga-header-menu .elementskit-menu-hamburger {
+float: none!important;
+margin: 0 auto;
+border:1px solid #000;
+}
+.yoga-header-menu .elementskit-menu-hamburger-icon{
+background-color: #000!important;
+}
+/*--------------------Header CSS Ends Here---------------------------*/
+
+/*--------------------About Inner Page CSS Starts Here---------------------------*/
+.inner-page-title-banner{
+background-image: unset!important;
+background-color:#a787ae!important;
+}
+
+
+.yoga-inner-page-heading h2{
+text-align: center;
+}
+
+.yoga-inner-page-heading{
+width:100%!important;
+
+}
+.yoga-inner-page-heading .elementor-widget-container {
+border-style:none!important;
+}
+.inner-page-title-banner.woolentor-breadcrumb{
+text-align:center;
+}
+.yoga-newsletter-contact-form input[type="email"]{
+padding: 10px 20px 10px 45px!important;
+}
+
+/*--------------------About Inner Page CSS Ends Here---------------------------*/
+/*---------------------Inner Contact Us Starts Here--------------------------*/
+.book-store-contact-inf-col .ekit-header-info{
+justify-content:center;
+}
+.yoga-inner-page-contact-form input[type=submit]{
+padding: 10px 25px!important;
+display: block;
+margin: 0 auto;
+}
+/*---------------------Inner Contact Us Starts Here--------------------------*/
+/*---------------------Single Blog Page css starts here--------------------------*/
+.ebs-single-post-page .feature-box img {
+width: 100%;
+}
+.content_page {
+background-color: unset;
+transform: unset;
+}
+.single-page-metaimage img {
+width: 100%;
+}
+.single-post-comment {
+width: unset!important;
+}
+.single-author-image img{
+display: block;
+margin: 0 auto;
+}
+.single-page-title{
+font: 600 20px/60px Jost!important;
+color: #242424;
+font-family: "Nunito Sans", Sans-serif!important;
+line-height: 1.3!important;
+}
+/*---------------------Single Blog Page css ends here--------------------------*/
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width:480px) and (min-width:321px){
+
+  /*-------------------- archive page css starts here---------------------------*/
+  .archive .posttitle{
+    text-align: center;
+  }
+  .archive  .post-text p{
+  text-align: center;
+  }
+  .archive .read{
+    text-align: center;
+  }
+  .archive .post-contents-cols{
+    margin-bottom:20px;
+  }
+
+
+    .archive .banner-image {
+      background-image: unset!important;
+      background-color: #a787ae!important;
+  }
+   .archive .single-page-banner-tittle {
+      width: unset;
+      text-align: center;
+      border-bottom: unset;
+      font-size: 20px;
+  }
+  .archive .page-title{
+    text-align:center;
+  }
+   .archive .single-page-breadcrumbs {
+      text-align: center;
+  }
+
+
+
+  /*--------------------archive page css starts here---------------------------*/
+
+
+  /*--------------------search page css starts here---------------------------*/
+  .search .sorry-msg{
+    text-align: center;
+    font-size: 16px;
+  }
+  .search  input[type="search"]{
+    display: block;
+    margin: 0 auto;
+
+  }
+
+  .search  input[type="submit"]{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px;
+      margin-top: 10px;
+  }
+
+
+  .search .single-img img{
+  width:100%;
+  height:100%;
+  }
+  .search .single-page-banner-tittle{
+    width:unset;
+    text-align:center;
+    border-bottom: unset;
+  }
+  .search .single-product-page-custom .bradcrumbs svg{
+    margin-right:0;
+  }
+  .search .entry-title{
+    text-align: center;
+    font-size: 25px;
+  }
+  .search .posttitle{
+    text-align: center;
+  }
+  .search  .post-text{
+      text-align: center;
+      font-size: 15px;
+  }
+  .search .read{
+    text-align: center;
+  }
+  .search .single-img{
+    margin-top: 30px;
+  }
+  .navigation{
+    justify-content: center;
+  }
+  .search .single-content{
+    display:unset;
+  }
+/*--------------------search page css ends here---------------------------*/
+
+
+  /*--------------------testimonial Page CSS Starts Here---------------------------*/
+  .yoga-testimonial-section .ua-testimonials-wrap:after{
+    display:none;
+  }
+
+    /*--------------------testimonial Page CSS Starts Here---------------------------*/
+  /*--------------------Search Page CSS Starts Here---------------------------*/
+  .search .post-content a{
+    font-size: 15px;
+  }
+  .search-result {
+    font-size: 20px;
+    text-align: center;
+}
+.search .banner-image{
+  background-image: unset!important;
+    background-color: #a787ae!important;
+}
+.search .single-page-breadcrumbs{
+  text-align:center;
+}
+
+
+/*--------------------Search Page CSS Ends Here---------------------------*/
+
+  /*--------------------Home Page Contact Us CSS starts Here---------------------------*/
+.yoga-home-page-contact-col .elementor-widget-wrap{
+z-index:unset!important;
+}
+/*--------------------Home Page Contact Us CSS Ends Here---------------------------*/
+
+
+
+/*--------------------Footer Section CSS Starts Here---------------------------*/
+
+.yoga-footer-section h2{
+margin-left:unset!important;
+}
+
+/*--------------------Footer Section CSS Ends Here---------------------------*/
+/*---------------------slider css starts here--------------------------*/
+.yoga-slider-section .bdt-prime-slider-content{
+margin-left:20px!important;
+}
+/*---------------------slider css ends here--------------------------*/
+/*---------------------3 Steps Reservation Section Css Starts Here--------------------------*/
+.yoga-3-steps-reservation .elementor-widget-wrap{
+width:100%;
+margin:unset;
+}
+/*---------------------3 Steps Reservation Section Css Starts Here--------------------------*/
+/*--------------------Classes Section Starts Here---------------------------*/
+.yoga-classes-section .ua-content{
+margin-left:0px;
+}
+.yoga-program-section-para h2{
+text-align: center;
+}
+/*--------------------Classes Section Ends Here---------------------------*/
+
+/*--------------------Footer Section starts Here---------------------------*/
+.footer-contact-us-col .ekit-header-info a{
+text-align: center;
+}
+/*--------------------Footer Section Ends Here---------------------------*/
+/*----------------------Blog Section CSS Starts Here---------------------------*/
+.yoga-blog-section .bew-blog-title{
+border-left:unset;
+padding-left:unset;
+}
+/*----------------------Blog Section CSS Ends Here---------------------------*/
+
+
+
+/*---------------------Single Class Page Css Starts Here--------------------------*/
+.single-product-banner-left h1{
+width:unset;
+border-style: none!important;
+}
+.single-product-banner-left h1{
+text-align: center;
+}
+.single-classes .bradcrumbs{
+text-align: center;
+}
+.bradcrumbs-div{
+text-align: center;
+}
+.service-single-page img{
+width:100%;
+}
+.service-single-box h3{
+text-align: center;
+}
+.service-single-box p{
+text-align: center;
+}
+.single-classes h2{
+text-align: center;
+}
+.single-class-days{
+text-align: center;
+}
+.single-classes p{
+text-align: center;
+}
+/*---------------------Single Class Page Css Ends Here--------------------------*/
+/*--------------------Inner Quote Page CSS Starts Here---------------------------*/
+.yoga-quote-form form{
+width:100%;
+padding: 20px 20px!important;
+}
+.yoga-quote-form .quote_page_title h2{
+font-size: 20px;
+}
+.client_detail_title_1 h2{
+font-size:20px;
+}
+.yoga-quote-form h2{
+font-size:20px;
+}
+
+.yoga-quote-form .client_detail_title_2 p{
+text-align: center;
+}
+.yoga-quote-form input[type="submit"]{
+font-size:18px;
+}
+.yoga-quote-form input[type="email"]{
+width:100%;
+}
+.yoga-quote-form input[type="number"]{
+width:100%;
+}
+.yoga-quote-form input[type="text"]{
+width:100%;
+}
+.yoga-quote-form input[type="submit"]{
+width:100%;
+}
+.yoga-subscribe-left-image{
+position: unset;
+}
+.yoga-subscribe-right-image{
+position: unset;
+}
+.yoga-quote-form input[type="text"]::placeholder{
+font-size:15px;
+}
+.yoga-quote-form input[type="submit"]::placeholder{
+font-size:15px;
+}
+.yoga-quote-form input[type="number"]::placeholder{
+font-size:15px;
+}
+.yoga-quote-form input[type="email"]::placeholder{
+font-size:15px;
+}
+.yoga-quote-form .info .name{
+font-size:18px;
+}
+.yoga-quote-form .info .number{
+font-size:18px;
+}
+.yoga-quote-form .info .email{
+font-size:18px;
+}
+.yoga-quote-form .client_detail_title_3 h2{
+padding:10px;
+}
+.yoga-quote-form .quote_page_title h2{
+padding:10px;
+}
+/*--------------------Inner Quote Page Ends Starts Here---------------------------*/
+/*--------------------Testimonial CSS Starts Here---------------------------*/
+.yoga-testimonial-section .ua-arrow-next{
+right: 0%!important;
+}
+.yoga-testimonial-section .ua-arrow-prev{
+left: 0%!important;
+}
+.yoga-testimonial-section .ua-testimonial-content{
+width: 80%!important;
+}
+.yoga-testimonial-section .ua-testimonial{
+width:unset;
+}
+/*--------------------Testimonial CSS Starts Here---------------------------*/
+
+
+
+/*---------------------Our Instructor CSS Starts Here---------------------------*/
+.yoga-our-instructor-col .wpr-member-content{
+left: -12px;
+}
+/*---------------------Our Instructor CSS Ends Here---------------------------*/
+
+
+/*--------------------Scubscribe Section CSS Starts Here---------------------------*/
+.yoga-newsletter-contact-form input[type="submit"]{
+position: unset!important;
+}
+.yoga-newsletter-contact-form form:before{
+top:10px!important;
+}
+.yoga-newsletter-contact-form .wpcf7-submit{
+display: block;
+margin: 0 auto!important;
+margin-top:10px!important;
+font-size: 13px!important;
+}
+.yoga-girl-images-section{
+display: none;
+}
+/*--------------------Scubscribe Section CSS Ends Here---------------------------*/
+
+/*----------------------Basic Yoga CSS Starts Here---------------------------*/
+.yoga-basic-yoga-main-section{
+background-color: #BF82E9;
+background-image: unset!important;
+}
+.yoga-basic-col .elementor-container{
+justify-content: center;
+}
+/*----------------------Basic Yoga CSS ends Here---------------------------*/
+
+/*----------------------Blog Section CSS Starts Here---------------------------*/
+.yoga-blog-section .display-grid[tablet-col="3"] {
+grid-template-columns: repeat(1, 1fr)!important;
+}
+
+
+.yoga-blog-section .bew-post-meta{
+display: flex;
+justify-content: center;
+}
+.yoga-blog-section .bew-blog-title{
+text-align: center;
+}
+.yoga-blog-section .bew-blog-excerpt{
+text-align: center;
+}
+/*----------------------Blog Section CSS Ends Here---------------------------*/
+
+/*---------------------Home Page Contact CSS Starts Here---------------------------*/
+.yoga-home-page-contact-col .elementor-widget-wrap{
+position: unset!important;
+}
+.yoga-home-page-contact-col .wpcf7-submit{
+display: block;
+margin: 0 auto!important;
+}
+/*---------------------Home Page Contact CSS Ends Here---------------------------*/
+
+/*--------------------Most Common Types Of Yoga Section CSS Starts Here---------------------------*/
+.yoga-most-common-type-slider .wpr-grid-slider-dots {
+top: 102%!important;
+}
+.yoga-most-common-type-slider .wpr-grid-slider-dots{
+left: 38%!important;
+}
+.yoga-most-common-type-section .wpr-grid-slider-arrow{
+width: 40px!important;
+height: 40px!important;
+}
+/*--------------------Most Common Types Of Yoga Section CSS Ends Here---------------------------*/
+
+
+/*--------------------Classes Section Starts Here---------------------------*/
+.yoga-classes-section .ua-title{
+text-align: center;
+}
+.yoga-classes-section .ua-text-wrap{
+text-align: center;
+}
+/*--------------------Classes Section Ends Here---------------------------*/
+
+
+
+/*--------------------Most Common Types Of Yoga Section CSS Starts Here---------------------------*/
+.yoga-most-common-type-slider .wpr-grid-slider-next-arrow{
+right: 0%!important;
+top: 13%!important;
+
+}
+.yoga-most-common-type-slider .wpr-grid-slider-prev-arrow{
+
+top: 11%!important;
+transform: unset!important;
+
+left:0!important;
+}
+
+
+
+
+
+
+/*--------------------Most Common Types Of Yoga Section CSS Ends Here---------------------------*/
+
+
+
+/*--------------------Slider CSS Starts Here---------------------------*/
+
+.yoga-slider-section .bdt-prime-slider-content{
+margin-right: 20px!important;
+}
+.yoga-slider-section .bdt-title-tag{
+text-align: center;
+}
+.yoga-slider-section .bdt-slider-excerpt{
+text-align: center;
+}
+.yoga-slider-section  div {
+text-align: center;
+}
+
+.yoga-slider-section .bdt-ps-slide-img {
+background-image: unset!important;
+background-color: #f9f6fd!important;
+}
+.yoga-slider-section .bdt-ps-button-text{
+font-size: 15px!important;
+}
+.yoga-slider-mail-col{
+display: none;
+}
+.yoga-slider-strech-col{
+display: none;
+}
+.yoga-slider-running-col{
+display: none;
+}
+.yoga-slider-call-col{
+display: none;
+}
+.yoga-slider-social-icon-col{
+display: none;
+}
+.yoga-slider-section .bdt-slider-excerpt{
+max-width: unset!important;
+}
+
+/*--------------------Slider CSS Ends Here----------------------------*/
+
+
+
+
+
+
+
+/*--------------------Footer CSS Starts Here---------------------------*/
+.footer-support-menu .hfe-nav-menu {
+display: block;
+margin: 0 auto;
+}
+.footer-contact-us-col h3:before{
+display:none;
+}
+.footer-about-us-menu ul.hfe-nav-menu li:before{
+display: none;
+}
+.footer-support-menu ul.hfe-nav-menu li:before{
+display:none!important;
+}
+.footer-work-hour-col h3:before{
+display:none;
+}
+.yoga-footer-section .ekit-header-info{
+justify-content:center;
+}
+.yoga-footer-section .ekit-header-info{
+justify-content:center;
+}
+.yoga-footer-section a.hfe-menu-item{
+display: block;
+text-align: center;
+}
+.footer-about-us-menu .hfe-nav-menu{
+display: block;
+margin: 0 auto;
+}
+
+/*--------------------Footer CSS Ends Here---------------------------*/
+/*--------------------Header CSS Starts Here---------------------------*/
+.yoga-header-logo-col img{
+display: block;
+margin: 0 auto;
+}
+.yoga-get-quote-col{
+display: none;
+}
+.yoga-header-menu .elementskit-menu-hamburger{
+z-index:0;
+}
+.yoga-header-menu .ekit-wid-con .elementskit-navbar-nav-default.elementskit-menu-container {
+z-index: 9999!important;
+}
+
+.yoga-header-menu .elementskit-menu-hamburger {
+float: none!important;
+margin: 0 auto;
+border:1px solid #000;
+}
+.yoga-header-menu .elementskit-menu-hamburger-icon{
+background-color: #000!important;
+}
+/*--------------------Header CSS Ends Here---------------------------*/
+
+/*--------------------About Inner Page CSS Starts Here---------------------------*/
+.inner-page-title-banner{
+background-image: unset!important;
+background-color:#a787ae!important;
+}
+
+
+.yoga-inner-page-heading h2{
+text-align: center;
+}
+
+.yoga-inner-page-heading{
+width:100%!important;
+
+}
+.yoga-inner-page-heading .elementor-widget-container {
+border-style:none!important;
+}
+.inner-page-title-banner .woolentor-breadcrumb{
+text-align:center!important;
+}
+
+.yoga-newsletter-contact-form input[type="email"]{
+padding: 10px 20px 10px 45px!important;
+}
+
+/*--------------------About Inner Page CSS Ends Here---------------------------*/
+
+/*---------------------FAQ Css Starts Here--------------------------*/
+.yoga-inner-faq .htwoolentor-faq-card .htwoolentor-faq-head .htwoolentor-faq-head-indicator::before, .htwoolentor-faq-card .htwoolentor-faq-head .htwoolentor-faq-head-indicator::after{
+left: -18px!important;
+}
+
+/*---------------------FAQ Css Ends Here--------------------------*/
+
+/*---------------------Inner Contact Us Starts Here--------------------------*/
+.book-store-contact-inf-col .ekit-header-info{
+justify-content:center;
+}
+.yoga-inner-page-contact-form input[type=submit]{
+padding: 10px 25px!important;
+display: block;
+margin: 0 auto;
+}
+/*---------------------Inner Contact Us Starts Here--------------------------*/
+
+/*---------------------Single Blog Page css starts here--------------------------*/
+.ebs-single-post-page .feature-box img {
+width: 100%;
+}
+.content_page {
+background-color: unset;
+transform: unset;
+}
+.single-page-metaimage img {
+width: 100%;
+}
+.single-post-comment {
+width: unset!important;
+}
+.single-author-image img{
+display: block;
+margin: 0 auto;
+}
+.single-page-title{
+font: 600 20px/60px Jost!important;
+color: #242424;
+font-family: "Nunito Sans", Sans-serif!important;
+line-height: 1.3!important;
+}
+/*---------------------Single Blog Page css ends here--------------------------*/
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:320px){
+/*-------------------- archive page css starts here---------------------------*/
+.archive .posttitle{
+  text-align: center;
+}
+.archive  .post-text p{
+text-align: center;
+}
+.archive .read{
+  text-align: center;
+}
+.archive .post-contents-cols{
+  margin-bottom:20px;
+}
+
+
+  .archive .banner-image {
+    background-image: unset!important;
+    background-color: #a787ae!important;
+}
+ .archive .single-page-banner-tittle {
+    width: unset;
+    text-align: center;
+    border-bottom: unset;
+    font-size: 20px;
+}
+.archive .page-title{
+  text-align:center;
+}
+ .archive .single-page-breadcrumbs {
+    text-align: center;
+}
+
+
+
+/*--------------------archive page css starts here---------------------------*/
+  /*--------------------search page css starts here---------------------------*/
+  .search .sorry-msg{
+    text-align: center;
+    font-size: 16px;
+  }
+  .search  input[type="search"]{
+    display: block;
+    margin: 0 auto;
+
+  }
+
+  .search  input[type="submit"]{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px;
+      margin-top: 10px;
+  }
+
+  .search .single-img img{
+    width: 100%;
+      height: 100%;
+  }
+  .search .single-content{
+    display:block;
+
+  }
+  .search .single-page-banner-tittle{
+    width:unset;
+    text-align:center;
+    border-bottom: unset;
+  }
+  .search .single-product-page-custom .bradcrumbs svg{
+    margin-right:0;
+  }
+  .search .entry-title{
+    text-align: center;
+    font-size: 25px;
+  }
+  .search .posttitle{
+    text-align: center;
+  }
+  .search  .post-text{
+      text-align: center;
+      font-size: 15px;
+  }
+  .search .read{
+    text-align: center;
+  }
+  .search .single-img{
+    margin-top: 30px;
+  }
+  .navigation{
+    justify-content: center;
+  }
+/*--------------------search page css ends here---------------------------*/
+
+  /*--------------------testimonial Page CSS Starts Here---------------------------*/
+  .yoga-testimonial-section .ua-testimonials-wrap:after{
+    display:none;
+  }
+
+    /*--------------------testimonial Page CSS Starts Here---------------------------*/
+  /*--------------------Search Page CSS Starts Here---------------------------*/
+  .search .post-content a{
+    font-size: 15px;
+  }
+  .search-result {
+    font-size: 20px;
+    text-align: center;
+}
+.search .banner-image{
+  background-image: unset!important;
+    background-color: #a787ae!important;
+}
+.search .single-page-breadcrumbs{
+  text-align:center;
+}
+
+
+/*--------------------Search Page CSS Ends Here---------------------------*/
+
+
+  /*--------------------Counter Section CSS Starts Here---------------------------*/
+.yoga-counter-section .elementor-counter-title:before{
+  right: 42%;
+}
+
+
+
+
+  /*--------------------Counter Section CSS Ends Here---------------------------*/
+
+    /*--------------------Home Page Contact Us CSS starts Here---------------------------*/
+.yoga-home-page-contact-col .elementor-widget-wrap{
+z-index:unset!important;
+}
+  /*--------------------Home Page Contact Us CSS Ends Here---------------------------*/
+/*--------------------Footer Section CSS Starts Here---------------------------*/
+
+.yoga-footer-section h2{
+margin-left:unset!important;
+}
+
+/*--------------------Footer Section CSS Ends Here---------------------------*/
+
+/*---------------------slider css starts here--------------------------*/
+.yoga-slider-section .bdt-prime-slider-content{
+margin-left:20px!important;
+}
+/*---------------------slider css ends here--------------------------*/
+
+/*---------------------Single Class Page Css Starts Here--------------------------*/
+.single-product-banner-left h1{
+width:unset;
+border-style: none!important;
+}
+.single-product-banner-left h1{
+text-align: center;
+}
+.single-classes .bradcrumbs{
+text-align: center;
+}
+.bradcrumbs-div{
+text-align: center;
+}
+.service-single-page img{
+width:100%;
+}
+.service-single-box h3{
+text-align: center;
+}
+.service-single-box p{
+text-align: center;
+}
+.single-classes h2{
+text-align: center;
+}
+.single-class-days{
+text-align: center;
+}
+.single-classes p{
+text-align: center;
+}
+/*---------------------Single Class Page Css Ends Here--------------------------*/
+/*---------------------Blog With Sidebar Page css starts here--------------------------*/
+.yoga-blog-with-sidebar .post-content a{
+font-size: 10px!important;
+}
+
+
+/*---------------------Blog With Sidebar Page css Ends here--------------------------*/
+
+
+/*---------------------Single Blog Page css starts here--------------------------*/
+.ebs-single-post-page .feature-box img {
+width: 100%;
+}
+.content_page {
+background-color: unset;
+transform: unset;
+}
+.single-page-metaimage img {
+width: 100%;
+}
+.single-post-comment {
+width: unset!important;
+}
+.single-author-image img{
+display: block;
+margin: 0 auto;
+}
+.single-page-title{
+font: 600 20px/60px Jost!important;
+color: #242424;
+font-family: "Nunito Sans", Sans-serif!important;
+line-height: 1.3!important;
+}
+/*---------------------Single Blog Page css ends here--------------------------*/
+/*--------------------Inner Quote Page CSS Starts Here---------------------------*/
+.yoga-quote-form form{
+width:100%;
+padding: 20px 20px!important;
+}
+.yoga-quote-form .quote_page_title h2{
+font-size:15px;
+}
+.client_detail_title_1 h2{
+font-size:15px;
+}
+.yoga-quote-form h2{
+font-size:18px;
+}
+
+.yoga-quote-form .client_detail_title_2 p{
+text-align: center;
+}
+.yoga-quote-form input[type="submit"]{
+font-size:18px;
+}
+.yoga-quote-form input[type="email"]{
+width:100%;
+}
+.yoga-quote-form input[type="number"]{
+width:100%;
+}
+.yoga-quote-form input[type="text"]{
+width:100%;
+}
+.yoga-quote-form input[type="submit"]{
+width:100%;
+}
+.yoga-subscribe-left-image{
+position: unset;
+}
+.yoga-subscribe-right-image{
+position: unset;
+}
+.yoga-quote-form input[type="text"]::placeholder{
+font-size:15px;
+}
+.yoga-quote-form input[type="submit"]::placeholder{
+font-size:15px;
+}
+.yoga-quote-form input[type="number"]::placeholder{
+font-size:15px;
+}
+.yoga-quote-form input[type="email"]::placeholder{
+font-size:15px;
+}
+.yoga-quote-form .info .name{
+font-size:18px;
+}
+.yoga-quote-form .info .number{
+font-size:18px;
+}
+.yoga-quote-form .info .email{
+font-size:18px;
+}
+.yoga-quote-form .client_detail_title_3 h2{
+padding:10px;
+}
+.yoga-quote-form .quote_page_title h2{
+padding:10px;
+}
+/*--------------------Inner Quote Page Ends Starts Here---------------------------*/
+
+
+
+
+/*--------------------Testimonial CSS Starts Here---------------------------*/
+.yoga-testimonial-section .ua-testimonial{
+width:unset;
+}
+.yoga-testimonial-section .ua-arrow-next{
+right: 0%!important;
+}
+.yoga-testimonial-section .ua-arrow-prev{
+left: 0%!important;
+}
+.yoga-testimonial-section .ua-testimonial-content{
+width: 80%!important;
+}
+/*--------------------Testimonial CSS Starts Here---------------------------*/
+
+/*---------------------Our Instructor CSS Starts Here---------------------------*/
+.yoga-our-instructor-col .wpr-member-content{
+left: -12px;
+}
+/*---------------------Our Instructor CSS Ends Here---------------------------*/
+
+
+/*--------------------Scubscribe Section CSS Starts Here---------------------------*/
+.yoga-newsletter-contact-form input[type="submit"]{
+position: unset!important;
+}
+.yoga-newsletter-contact-form form:before{
+/* top:13px!important; */
+top: 10px!important;
+
+}
+.yoga-newsletter-contact-form .wpcf7-submit{
+display: block;
+margin: 0 auto!important;
+margin-top:10px!important;
+font-size: 13px!important;
+}
+.yoga-girl-images-section{
+display: none;
+}
+/*--------------------Scubscribe Section CSS Ends Here---------------------------*/
+
+/*----------------------Basic Yoga CSS Starts Here---------------------------*/
+.yoga-basic-yoga-main-section{
+background-color: #BF82E9;
+background-image: unset!important;
+}
+.yoga-basic-col .elementor-container{
+justify-content: center;
+}
+/*----------------------Basic Yoga CSS ends Here---------------------------*/
+
+/*----------------------Blog Section CSS Starts Here---------------------------*/
+.yoga-blog-section .bew-post-meta{
+display: flex;
+justify-content: center;
+}
+.yoga-blog-section .bew-blog-title{
+text-align: center;
+}
+.yoga-blog-section .bew-blog-excerpt{
+text-align: center;
+}
+/*----------------------Blog Section CSS Ends Here---------------------------*/
+
+/*---------------------Home Page Contact CSS Starts Here---------------------------*/
+.yoga-home-page-contact-col .elementor-widget-wrap{
+position: unset!important;
+}
+.yoga-home-page-contact-col .wpcf7-submit{
+display: block;
+margin: 0 auto!important;
+}
+/*---------------------Home Page Contact CSS Ends Here---------------------------*/
+
+/*--------------------Most Common Types Of Yoga Section CSS Starts Here---------------------------*/
+.yoga-most-common-type-slider .wpr-grid-slider-dots {
+top: 102%!important;
+}
+.yoga-most-common-type-slider .wpr-grid-slider-dots{
+left: 38%!important;
+}
+.yoga-most-common-type-section .wpr-grid-slider-arrow{
+width: 40px!important;
+height: 40px!important;
+}
+/*--------------------Most Common Types Of Yoga Section CSS Ends Here---------------------------*/
+
+
+/*--------------------Classes Section Starts Here---------------------------*/
+.yoga-classes-section .ua-title{
+text-align: center;
+}
+.yoga-classes-section .ua-text-wrap{
+text-align: center;
+}
+/*--------------------Classes Section Ends Here---------------------------*/
+
+
+
+/*--------------------Most Common Types Of Yoga Section CSS Starts Here---------------------------*/
+.yoga-most-common-type-slider .wpr-grid-slider-next-arrow{
+right: 0%!important;
+top: 9%!important;
+}
+.yoga-most-common-type-slider .wpr-grid-slider-prev-arrow{
+/* right: 0%!important; */
+top: 7%!important;
+transform: unset!important;
+/* left: unset!important; */
+left:0!important;
+}
+/*--------------------Most Common Types Of Yoga Section CSS Ends Here---------------------------*/
+
+
+
+/*--------------------Slider CSS Starts Here---------------------------*/
+.yoga-slider-section .bdt-prime-slider-content{
+margin-right: 20px!important;
+}
+.yoga-slider-section .bdt-title-tag{
+text-align: center;
+}
+.yoga-slider-section .bdt-slider-excerpt{
+text-align: center;
+}
+.yoga-slider-section  div {
+text-align: center;
+}
+
+.yoga-slider-section .bdt-ps-slide-img {
+background-image: unset!important;
+background-color: #f9f6fd!important;
+}
+.yoga-slider-section .bdt-ps-button-text{
+font-size: 15px!important;
+}
+.yoga-slider-mail-col{
+display: none;
+}
+.yoga-slider-strech-col{
+display: none;
+}
+.yoga-slider-running-col{
+display: none;
+}
+.yoga-slider-call-col{
+display: none;
+}
+.yoga-slider-social-icon-col{
+display: none;
+}
+
+/*--------------------Slider CSS Ends Here----------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+/*--------------------Footer  Css Starts  Here---------------------------*/
+.footer-support-menu .hfe-nav-menu {
+display: block;
+margin: 0 auto;
+}
+.footer-contact-us-col h3:before{
+display:none;
+}
+.footer-about-us-menu ul.hfe-nav-menu li:before{
+display: none;
+}
+
+.footer-work-hour-col h3:before{
+display:none;
+}
+.yoga-footer-section .ekit-header-info{
+justify-content:center;
+}
+.yoga-footer-section .ekit-header-info{
+justify-content:center;
+}
+.yoga-footer-section a.hfe-menu-item{
+display: block;
+text-align: center;
+}
+.footer-about-us-menu .hfe-nav-menu{
+display: block;
+margin: 0 auto;
+}
+/*--------------------Footer CSS Ends Here---------------------------*/
+
+
+
+/*--------------------Header CSS Starts Here---------------------------*/
+
+.yoga-header-menu ul {
+width:unset!important;
+}
+.yoga-header-menu .elementskit-menu-container {
+max-width: 320px!important;
+}
+.yoga-header-logo-col img{
+display: block;
+margin: 0 auto;
+}
+.yoga-get-quote-col{
+display: none;
+}
+.yoga-header-menu .elementskit-menu-hamburger{
+z-index:0;
+}
+.yoga-header-menu .ekit-wid-con .elementskit-navbar-nav-default.elementskit-menu-container {
+z-index: 9999!important;
+}
+
+.yoga-header-menu .elementskit-menu-hamburger {
+float: none!important;
+margin: 0 auto;
+border:1px solid #000;
+}
+.yoga-header-menu .elementskit-menu-hamburger-icon{
+background-color: #000!important;
+}
+/*--------------------Header CSS Ends Here---------------------------*/
+
+
+
+/*--------------------About Inner Page CSS Starts Here---------------------------*/
+.inner-page-title-banner{
+background-image: unset!important;
+background-color:#a787ae!important;
+}
+
+
+.yoga-inner-page-heading h2{
+text-align: center;
+}
+
+.yoga-inner-page-heading{
+width:100%!important;
+
+}
+.yoga-inner-page-heading .elementor-widget-container {
+border-style:none!important;
+}
+.inner-page-title-banner .woolentor-breadcrumb{
+text-align:center!important;
+}
+.yoga-newsletter-contact-form input[type="email"]{
+padding: 10px 20px 10px 45px!important;
+}
+.footer-support-menu ul.hfe-nav-menu li:before{
+display:none!important;
+}
+
+/*--------------------About Inner Page CSS Ends Here---------------------------*/
+
+/*---------------------FAQ Css Starts Here--------------------------*/
+
+.yoga-inner-faq .htwoolentor-faq-head-indicator{
+position:unset!important;
+}
+.yoga-inner-faq .htwoolentor-faq-head-indicator::before{
+left: 10px!important;
+}
+.yoga-inner-faq .htwoolentor-faq-card .htwoolentor-faq-head .htwoolentor-faq-head-indicator::before, .htwoolentor-faq-card .htwoolentor-faq-head .htwoolentor-faq-head-indicator::after{
+left: 10px!important;
+}
+.yoga-faq-section input[type=text] {
+padding:8px!important;
+}
+/*---------------------FAQ Css Ends Here--------------------------*/
+/*---------------------Inner Contact Us Starts Here--------------------------*/
+.book-store-contact-inf-col .ekit-header-info{
+justify-content:center;
+}
+.yoga-inner-page-contact-form input[type=submit]{
+padding: 10px 25px!important;
+display: block;
+margin: 0 auto;
+}
+/*---------------------Inner Contact Us Starts Here--------------------------*/
+
+/*---------------------3 Steps Reservation Section Css Starts Here--------------------------*/
+.yoga-3-steps-reservation .elementor-widget-wrap{
+width:100%;
+margin:unset;
+}
+/*---------------------3 Steps Reservation Section Css Starts Here--------------------------*/
+/*--------------------Classes Section Starts Here---------------------------*/
+.yoga-classes-section .ua-content{
+margin-left:0px;
+}
+.yoga-program-section-para h2{
+text-align: center;
+}
+/*--------------------Classes Section Ends Here---------------------------*/
+
+/*--------------------Footer Section starts Here---------------------------*/
+.footer-contact-us-col .ekit-header-info a{
+text-align: center;
+}
+/*--------------------Footer Section Ends Here---------------------------*/
+/*----------------------Blog Section CSS Starts Here---------------------------*/
+.yoga-blog-section .bew-blog-title{
+border-left:unset;
+padding-left:unset;
+}
+
+
+
+
+}
+
+
+
+
+
+
+
+/*--------------------Loader CSS Starts Here---------------------------*/
+
+@media screen and (max-width:767px){
+.loader {
+width:300px;
+height:300px;
+
+margin: 0 auto;
+position: relative;
+top: 30%;
+
+}
+}
+/*--------------------Loader CSS Starts Here---------------------------*/
+@media (max-width: 1024px){
+.yoga-slider-section .bdt-prime-slider-content{
+max-width: unset!important;
+}
+}
